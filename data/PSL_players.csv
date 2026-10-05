@@ -1,0 +1,467 @@
+player_id,player,player_unique,name_shared_by_multiple_ids,name_variants,teams,team_count,first_psl_year,last_psl_year,seasons_played,first_match_date,last_match_date,matches,substitute_fielder_only,innings_batted,not_outs,times_out,runs,balls_faced,fours,sixes,highest_score,fifties,hundreds,batting_average,batting_strike_rate,innings_bowled,balls_bowled,overs_bowled,runs_conceded,wickets,bowling_average,economy_rate,bowling_strike_rate,wides_bowled,noballs_bowled,catches,stumpings,player_of_match_awards
+8a75e999,Babar Azam,Babar Azam,0,Babar Azam,Islamabad United|Karachi Kings|Peshawar Zalmi,3,2016,2026,11,2016-02-04,2026-05-03,110,0,109,16,93,4380,3377,479,80,115,39,4,47.1,129.7,0,0,0.0,0,0,,,,0,0,58,0,10
+1777c020,Fakhar Zaman,Fakhar Zaman,0,Fakhar Zaman,Lahore Qalandars,1,2017,2026,10,2017-02-10,2026-04-25,105,0,105,2,103,3365,2351,331,140,115,27,3,32.67,143.13,7,60,10.0,58,2,29.0,5.8,30.0,0,0,41,0,15
+2f26ac1a,Mohammad Rizwan,Mohammad Rizwan,0,Mohammad Rizwan,Lahore Qalandars|Karachi Kings|Multan Sultans|Rawalpindiz,4,2016,2026,11,2016-02-05,2026-04-26,102,0,92,17,75,2974,2323,277,75,110,21,2,39.65,128.02,0,0,0.0,0,0,,,,0,0,79,15,7
+cad00a4d,RR Rossouw,RR Rossouw,0,RR Rossouw,Quetta Gladiators|Multan Sultans,2,2017,2026,10,2017-02-10,2026-04-25,104,0,98,19,79,2604,1786,260,106,121,14,3,32.96,145.8,3,16,2.4,17,2,8.5,6.38,8.0,0,0,43,0,9
+64c34cd0,Shoaib Malik,Shoaib Malik,0,Shoaib Malik,Karachi Kings|Multan Sultans|Peshawar Zalmi|Quetta Gladiators,4,2016,2025,10,2016-02-05,2025-04-13,91,0,87,17,70,2342,1832,169,81,73,15,0,33.46,127.84,51,665,110.5,792,17,46.59,7.15,39.12,18,2,32,0,3
+ff077124,Kamran Akmal,Kamran Akmal,0,Kamran Akmal,Peshawar Zalmi,1,2016,2022,7,2016-02-05,2022-02-24,74,0,73,2,71,1942,1420,211,87,107,12,3,27.35,136.76,0,0,0.0,0,0,,,,0,0,53,9,7
+6843a783,Shan Masood,Shan Masood,0,Shan Masood,Multan Sultans|Karachi Kings,2,2019,2026,8,2019-02-15,2026-04-29,67,0,66,3,63,1870,1398,212,37,88,10,0,29.68,133.76,0,0,0.0,0,0,,,,0,0,36,0,4
+9ab63e7b,Mohammad Hafeez,Mohammad Hafeez,0,Mohammad Hafeez,Peshawar Zalmi|Lahore Qalandars|Quetta Gladiators,3,2016,2023,8,2016-02-05,2023-03-11,77,0,73,11,62,1672,1356,152,63,98,8,0,26.97,123.3,35,445,74.1,510,18,28.33,6.88,24.72,2,0,27,0,2
+af2c687b,C Munro,C Munro,0,C Munro,Karachi Kings|Islamabad United,2,2019,2025,7,2019-02-23,2025-05-03,54,0,54,5,49,1633,1090,157,78,90,13,0,33.33,149.82,4,42,7.0,71,2,35.5,10.14,21.0,1,0,12,0,5
+9de62878,Shadab Khan,Shadab Khan,0,Shadab Khan,Islamabad United,1,2017,2026,10,2017-02-11,2026-05-01,104,0,85,12,73,1586,1123,113,81,91,9,0,21.73,141.23,102,2190,365.0,2788,122,22.85,7.64,17.95,50,0,49,0,7
+a15618fe,JM Vince,JM Vince,0,JM Vince,Karachi Kings|Multan Sultans|Quetta Gladiators|Peshawar Zalmi,4,2016,2026,9,2016-02-05,2026-04-25,57,0,57,4,53,1526,1097,186,44,101,7,1,28.79,139.11,0,0,0.0,0,0,,,,0,0,25,0,4
+2254ab79,Sarfraz Ahmed,Sarfraz Ahmed,0,Sarfraz Ahmed,Quetta Gladiators,1,2016,2024,9,2016-02-04,2024-03-06,86,0,73,21,52,1525,1243,136,26,81,7,0,29.33,122.69,1,4,0.4,6,0,,9.0,,0,0,43,13,3
+ee8f1a6d,Azam Khan,Azam Khan,0,Azam Khan,Quetta Gladiators|Islamabad United|Karachi Kings,3,2019,2026,8,2019-03-05,2026-04-25,70,0,64,6,58,1442,1003,123,81,97,7,0,24.86,143.77,0,0,0.0,0,0,,,,0,0,34,8,4
+d1c36f5c,JJ Roy,JJ Roy,0,JJ Roy,Lahore Qalandars|Quetta Gladiators|Karachi Kings,3,2017,2026,7,2017-02-10,2026-04-25,43,0,43,3,40,1429,967,171,50,145,9,2,35.72,147.78,0,0,0.0,0,0,,,,0,0,22,0,3
+4329fbb5,SR Watson,SR Watson,0,SR Watson,Islamabad United|Quetta Gladiators,2,2016,2020,5,2016-02-04,2020-03-15,46,0,46,4,42,1361,982,123,81,91,9,0,32.4,138.59,26,444,74.0,612,23,26.61,8.27,19.3,23,0,10,0,6
+bafb9238,Usman Khan,Usman Khan,0,Usman Khan|Usman Khan (2),Quetta Gladiators|Multan Sultans|Hyderabad Kingsmen,3,2021,2026,5,2021-03-03,2026-05-03,38,0,38,5,33,1349,852,145,58,120,7,4,40.88,158.33,0,0,0.0,0,0,,,,0,0,24,1,3
+9cb8d7a6,Imad Wasim,Imad Wasim,0,Imad Wasim,Karachi Kings|Islamabad United,2,2016,2026,11,2016-02-05,2026-05-01,110,0,81,28,53,1334,977,125,45,92,7,0,25.17,136.54,107,2156,359.2,2548,89,28.63,7.09,24.22,27,0,22,0,5
+fc2fffb5,Abdullah Shafique,Abdullah Shafique,0,Abdullah Shafique,Lahore Qalandars,1,2022,2026,5,2022-01-29,2026-04-25,49,0,49,3,46,1313,934,120,52,75,9,0,28.54,140.58,0,0,0.0,0,0,,,,0,0,19,0,1
+0a4736eb,Asif Ali,Asif Ali,0,Asif Ali,Islamabad United|Peshawar Zalmi|Lahore Qalandars,3,2016,2026,11,2016-02-12,2026-04-18,96,0,84,21,63,1289,824,73,98,75,3,0,20.46,156.43,1,18,3.0,27,2,13.5,9.0,9.0,0,0,36,0,3
+1aba45cd,Sahibzada Farhan,Sahibzada Farhan,0,Sahibzada Farhan,Islamabad United|Karachi Kings|Lahore Qalandars|Multan Sultans,4,2018,2026,6,2018-02-25,2026-04-29,44,0,43,4,39,1286,904,134,57,106,8,2,32.97,142.26,0,0,0.0,0,0,,,,0,0,14,2,2
+92aeac25,AD Hales,AD Hales,0,AD Hales,Islamabad United|Karachi Kings,2,2018,2025,8,2018-03-13,2025-05-21,46,0,44,2,42,1268,874,141,50,88,7,0,30.19,145.08,0,0,0.0,0,0,,,,0,0,19,0,4
+33609a8c,Saim Ayub,Saim Ayub,0,Saim Ayub,Quetta Gladiators|Peshawar Zalmi|Hyderabad Kingsmen,3,2021,2026,5,2021-02-20,2026-05-03,53,0,53,1,52,1232,885,122,57,88,9,0,23.69,139.21,32,516,86.0,700,20,35.0,8.14,25.8,12,2,22,0,3
+29e253dd,Iftikhar Ahmed,Iftikhar Ahmed,0,Iftikhar Ahmed,Karachi Kings|Peshawar Zalmi|Islamabad United|Quetta Gladiators|Multan Sultans,5,2016,2026,11,2016-02-05,2026-05-03,88,0,72,23,49,1196,895,90,58,71,5,0,24.41,133.63,46,529,88.1,723,25,28.92,8.2,21.16,11,0,45,0,3
+193ef196,Sharjeel Khan,Sharjeel Khan,0,Sharjeel Khan,Islamabad United|Karachi Kings|Hyderabad Kingsmen,3,2016,2026,7,2016-02-04,2026-04-08,51,0,50,3,47,1180,836,104,78,117,5,2,25.11,141.15,0,0,0.0,0,0,,,,0,0,7,0,4
+bb4b445b,Hussain Talat,Hussain Talat,0,Hussain Talat,Islamabad United|Peshawar Zalmi|Lahore Qalandars,3,2017,2025,9,2017-02-24,2025-05-17,70,0,57,10,47,1170,945,99,35,63,5,0,24.89,123.81,30,377,62.5,585,20,29.25,9.31,18.85,16,4,15,0,2
+a757b0d8,KA Pollard,KA Pollard,0,KA Pollard,Karachi Kings|Multan Sultans|Peshawar Zalmi,3,2017,2024,5,2017-02-10,2024-03-11,52,0,48,18,30,1149,708,79,77,73,6,0,38.3,162.29,24,310,51.4,454,13,34.92,8.79,23.85,15,2,42,0,4
+ff3f6fc1,Mohammad Haris,Mohammad Haris,0,Mohammad Haris,Peshawar Zalmi,1,2022,2026,5,2022-02-13,2026-05-03,46,0,45,2,43,1111,666,118,54,87,4,0,25.84,166.82,0,0,0.0,0,0,,,,0,0,43,2,3
+f8fd6e3f,Ahmed Shehzad,Ahmed Shehzad,0,Ahmed Shehzad,Quetta Gladiators|Multan Sultans,2,2016,2020,5,2016-02-04,2020-03-15,44,0,43,2,41,1077,897,109,32,99,9,0,26.27,120.07,0,0,0.0,0,0,,,,0,0,20,0,3
+fce581b5,Khushdil Shah,Khushdil Shah,0,Khushdil Shah,Peshawar Zalmi|Multan Sultans|Karachi Kings,3,2017,2026,9,2017-03-03,2026-04-25,80,0,68,26,42,1055,733,78,55,70,2,0,25.12,143.93,46,690,115.0,922,39,23.64,8.02,17.69,24,0,31,0,2
+b98b5e1c,Sohaib Maqsood,Sohaib Maqsood,0,Sohaib Maqsood,Lahore Qalandars|Peshawar Zalmi|Multan Sultans|Islamabad United,4,2016,2023,8,2016-02-05,2023-03-16,44,0,43,8,35,1045,810,90,50,85,8,0,29.86,129.01,1,6,1.0,8,0,,8.0,,0,0,12,0,2
+bd4ea627,Faheem Ashraf,Faheem Ashraf,0,Faheem Ashraf,Islamabad United|Quetta Gladiators,2,2018,2026,9,2018-02-24,2026-05-01,95,0,69,20,49,1039,721,88,53,55,3,0,21.2,144.11,92,1743,290.3,2542,104,24.44,8.75,16.76,56,7,44,0,7
+fd2bf2a0,Umar Akmal,Umar Akmal,0,Umar Akmal,Lahore Qalandars|Quetta Gladiators,2,2016,2023,6,2016-02-06,2023-03-11,43,0,40,6,34,1029,713,78,60,93,8,0,30.26,144.32,0,0,0.0,0,0,,,,0,0,23,1,3
+0fa5042b,L Ronchi,L Ronchi,0,L Ronchi,Islamabad United,1,2018,2020,3,2018-02-24,2020-03-08,31,0,31,3,28,1020,614,116,50,94,10,0,36.43,166.12,0,0,0.0,0,0,,,,0,0,19,3,7
+3086f7a4,Mohammad Nawaz,Mohammad Nawaz,0,Mohammad Nawaz|Mohammad Nawaz (3),Quetta Gladiators|Karachi Kings|Islamabad United|Multan Sultans,4,2016,2026,11,2016-02-04,2026-04-29,98,0,74,20,54,958,836,81,35,52,1,0,17.74,114.59,96,1792,298.4,2358,80,29.48,7.9,22.4,30,0,54,0,5
+c13e34f4,Haider Ali,Haider Ali,0,Haider Ali,Peshawar Zalmi|Karachi Kings|Islamabad United,3,2020,2026,7,2020-02-21,2026-05-01,60,0,53,8,45,949,696,83,47,69,4,0,21.09,136.35,0,0,0.0,0,0,,,,0,0,18,0,1
+afa78c3a,CS Delport,CS Delport,0,CS Delport,Lahore Qalandars|Islamabad United|Karachi Kings|Quetta Gladiators,4,2016,2021,6,2016-02-05,2021-06-16,39,0,38,2,36,873,688,80,33,117,5,1,24.25,126.89,14,191,31.5,289,10,28.9,9.08,19.1,7,2,7,0,2
+89c16049,Agha Salman,Agha Salman,0,Agha Salman,Lahore Qalandars|Islamabad United|Karachi Kings,3,2018,2026,6,2018-02-26,2026-04-25,46,0,44,3,41,842,682,76,30,64,3,0,20.54,123.46,20,211,35.1,291,7,41.57,8.27,30.14,4,0,10,0,1
+d07c1b2f,Saud Shakeel,Saud Shakeel,0,Saud Shakeel,Quetta Gladiators,1,2024,2026,3,2024-02-18,2026-04-25,32,0,31,3,28,840,642,90,27,88,5,0,30.0,130.84,15,144,24.0,191,10,19.1,7.96,14.4,2,0,8,0,2
+c995d726,CA Ingram,CA Ingram,0,CA Ingram,Karachi Kings|Islamabad United,2,2018,2021,4,2018-02-23,2021-03-03,36,0,35,8,27,819,558,69,40,127,3,1,30.33,146.77,1,6,1.0,8,0,,8.0,,0,0,12,0,2
+1ff2f550,Sohail Akhtar,Sohail Akhtar,0,Sohail Akhtar,Lahore Qalandars,1,2018,2022,5,2018-02-23,2022-02-21,44,0,42,9,33,808,656,79,32,75,3,0,24.48,123.17,1,1,0.1,0,0,,0.0,,0,0,16,0,0
+c16d4035,SW Billings,SW Billings,0,SW Billings,Islamabad United|Lahore Qalandars|Rawalpindiz,3,2016,2026,5,2016-02-04,2026-04-26,39,0,37,7,30,790,548,70,33,78,5,0,26.33,144.16,0,0,0.0,0,0,,,,0,0,29,0,1
+26d041c4,Sikandar Raza,Sikandar Raza,0,Sikandar Raza,Karachi Kings|Lahore Qalandars,2,2019,2026,5,2019-02-15,2026-04-25,44,0,42,13,29,753,497,66,38,71,3,0,25.97,151.51,38,522,87.0,739,26,28.42,8.49,20.08,18,5,20,0,2
+35f4cf7e,Kamran Ghulam,Kamran Ghulam,0,Kamran Ghulam,Islamabad United|Lahore Qalandars|Multan Sultans|Rawalpindiz,4,2016,2026,6,2016-02-10,2026-04-26,35,0,34,4,30,752,594,66,28,55,3,0,25.07,126.6,7,60,10.0,86,1,86.0,8.6,60.0,4,0,7,0,0
+26a8b2fe,Hassan Nawaz,Hassan Nawaz,0,Hassan Nawaz,Islamabad United|Quetta Gladiators,2,2023,2026,3,2023-02-16,2026-04-25,25,0,23,4,19,718,491,47,42,100,5,1,37.79,146.23,4,36,6.0,65,2,32.5,10.83,18.0,0,0,7,0,2
+7ca5e05d,RS Bopara,RS Bopara,0,RS Bopara,Karachi Kings|Multan Sultans|Peshawar Zalmi,3,2016,2021,6,2016-02-05,2021-03-03,37,0,35,9,26,708,625,58,14,71,4,0,27.23,113.28,18,246,41.0,362,13,27.85,8.83,18.92,8,0,17,0,1
+4f1bb625,Yasir Khan,Yasir Khan,0,Yasir Khan,Peshawar Zalmi|Quetta Gladiators|Multan Sultans|Rawalpindiz,4,2022,2026,5,2022-01-28,2026-04-21,29,0,28,0,28,702,494,75,31,87,4,0,25.07,142.11,0,0,0.0,0,0,,,,0,0,9,0,1
+35205dfc,DR Smith,DR Smith,0,DR Smith,Islamabad United|Peshawar Zalmi|Quetta Gladiators,3,2016,2019,4,2016-02-17,2019-02-24,28,0,25,4,21,701,611,67,31,73,5,0,33.38,114.73,7,36,6.0,71,0,,11.83,,0,0,8,0,2
+5d1e7582,BKG Mendis,BKG Mendis,0,BKG Mendis,Quetta Gladiators|Peshawar Zalmi,2,2025,2026,2,2025-04-12,2026-05-03,19,0,16,2,14,693,412,70,27,109,4,1,49.5,168.2,0,0,0.0,0,0,,,,0,0,16,3,3
+f836b33d,T Kohler-Cadmore,T Kohler-Cadmore,0,T Kohler-Cadmore,Quetta Gladiators|Peshawar Zalmi,2,2018,2025,6,2018-03-20,2025-05-17,34,0,34,2,32,678,505,53,36,92,5,0,21.19,134.26,0,0,0.0,0,0,,,,0,0,16,0,2
+c03c6200,DJG Sammy,DJG Sammy,0,DJG Sammy,Peshawar Zalmi,1,2016,2020,5,2016-02-05,2020-02-28,48,0,38,11,27,673,462,47,42,48,0,0,24.93,145.67,15,154,25.4,247,8,30.88,9.62,19.25,5,1,16,0,2
+aa8d28ae,D Wiese,D Wiese,0,D Wiese,Karachi Kings|Lahore Qalandars,2,2018,2025,8,2018-03-08,2025-04-11,54,0,46,20,26,629,389,40,41,48,0,0,24.19,161.7,53,883,147.1,1217,38,32.03,8.27,23.24,22,1,20,0,3
+dcce6f09,DA Warner,DA Warner,0,DA Warner,Karachi Kings,1,2025,2026,2,2025-04-12,2026-04-25,18,0,18,2,16,624,412,78,18,89,6,0,39.0,151.46,0,0,0.0,0,0,,,,0,0,8,0,2
+ad9c32a2,DJ Malan,DJ Malan,0,DJ Malan,Peshawar Zalmi|Islamabad United|Multan Sultans,3,2016,2024,5,2016-02-05,2024-03-05,24,0,24,3,21,619,504,57,20,64,5,0,29.48,122.82,0,0,0.0,0,0,,,,0,0,8,0,0
+6b71e6cf,KC Sangakkara,KC Sangakkara,0,KC Sangakkara,Quetta Gladiators|Karachi Kings|Multan Sultans,3,2016,2018,3,2016-02-14,2018-03-13,23,0,23,1,22,613,485,64,17,65,5,0,27.86,126.39,0,0,0.0,0,0,,,,0,0,19,1,1
+39f01cdb,KP Pietersen,KP Pietersen,0,KP Pietersen,Quetta Gladiators,1,2016,2018,3,2016-02-04,2018-03-15,27,0,25,2,23,611,439,43,30,88,4,0,26.57,139.18,0,0,0.0,0,0,,,,0,0,5,0,2
+f1f99156,TH David,TH David,0,TH David,Lahore Qalandars|Multan Sultans,2,2021,2023,3,2021-06-09,2023-03-18,22,0,22,8,14,605,337,40,43,71,4,0,43.21,179.53,4,30,5.0,49,1,49.0,9.8,30.0,2,0,15,0,1
+272d796e,BR Dunk,BR Dunk,0,BR Dunk,Karachi Kings|Lahore Qalandars,2,2019,2022,4,2019-02-21,2022-01-30,30,0,27,5,22,596,412,41,34,99,3,0,27.09,144.66,0,0,0.0,0,0,,,,0,0,24,3,2
+d014d5ac,SE Rutherford,SE Rutherford,0,SE Rutherford,Karachi Kings|Peshawar Zalmi|Quetta Gladiators,3,2020,2024,4,2020-11-14,2024-03-06,30,0,29,7,22,588,399,39,39,70,3,0,26.73,147.37,0,0,0.0,0,0,,,,0,0,7,0,1
+ee95065d,Irfan Khan,Irfan Khan,0,Irfan Khan,Karachi Kings|Hyderabad Kingsmen,2,2023,2026,4,2023-02-16,2026-05-03,40,0,35,13,22,577,434,41,27,48,0,0,26.23,132.95,0,0,0.0,0,0,,,,0,0,25,0,2
+3b041a12,Tamim Iqbal,Tamim Iqbal,0,Tamim Iqbal,Peshawar Zalmi|Lahore Qalandars,2,2016,2020,4,2016-02-05,2020-11-17,19,0,19,4,15,568,500,58,14,80,4,0,37.87,113.6,0,0,0.0,0,0,,,,0,0,3,0,2
+9948e262,HE van der Dussen,HE van der Dussen,0,HE van der Dussen,Islamabad United|Lahore Qalandars,2,2023,2025,3,2023-02-16,2025-05-23,16,0,16,2,14,555,388,46,20,104,3,1,39.64,143.04,0,0,0.0,0,0,,,,0,0,6,0,1
+40c041ea,Imam-ul-Haq,Imam-ul-Haq,0,Imam-ul-Haq,Peshawar Zalmi,1,2019,2021,3,2019-02-17,2021-06-21,22,0,22,0,22,542,436,50,13,59,5,0,24.64,124.31,0,0,0.0,0,0,,,,0,0,8,0,1
+2be41edb,MJ Guptill,MJ Guptill,0,MJ Guptill,Karachi Kings|Quetta Gladiators|Islamabad United,3,2021,2024,3,2021-06-10,2024-03-18,18,0,18,1,17,519,372,51,22,117,3,1,30.53,139.52,0,0,0.0,0,0,,,,0,0,8,0,2
+b8cc58c9,RR Hendricks,RR Hendricks,0,RR Hendricks,Multan Sultans|Karachi Kings,2,2024,2026,2,2024-02-18,2026-04-25,14,0,14,3,11,516,379,51,16,87,5,0,46.91,136.15,0,0,0.0,0,0,,,,0,0,6,0,1
+7eae4418,Misbah-ul-Haq,Misbah-ul-Haq,0,Misbah-ul-Haq,Islamabad United|Peshawar Zalmi,2,2016,2019,4,2016-02-04,2019-03-13,29,0,22,6,16,507,453,42,18,61,2,0,31.69,111.92,0,0,0.0,0,0,,,,0,0,10,0,1
+650d5e49,R Powell,R Powell,0,R Powell,Peshawar Zalmi,1,2021,2024,3,2021-06-10,2024-03-16,27,0,26,6,20,504,327,43,26,64,1,0,25.2,154.13,2,18,3.0,45,1,45.0,15.0,18.0,3,0,10,0,1
+eade4650,DJ Mitchell,DJ Mitchell,0,DJ Mitchell,Lahore Qalandars|Rawalpindiz,2,2025,2026,2,2025-04-11,2026-04-23,18,0,18,2,16,496,360,39,19,75,4,0,31.0,137.78,11,143,23.5,246,7,35.14,10.32,20.43,7,1,6,0,1
+2e11c706,BCJ Cutting,BCJ Cutting,0,BCJ Cutting,Quetta Gladiators|Peshawar Zalmi|Karachi Kings,3,2020,2023,4,2020-02-20,2023-03-12,27,0,26,5,21,481,306,33,33,53,2,0,22.9,157.19,13,196,32.4,356,13,27.38,10.9,15.08,5,1,17,0,1
+4a461c24,LA Dawson,LA Dawson,0,LA Dawson,Peshawar Zalmi|Islamabad United|Lahore Qalandars,3,2018,2023,5,2018-03-03,2023-02-19,33,0,27,4,23,471,376,32,19,62,2,0,20.48,125.27,29,507,84.3,658,21,31.33,7.79,24.14,5,0,13,0,2
+50c6bc2b,LS Livingstone,LS Livingstone,0,LS Livingstone,Karachi Kings|Peshawar Zalmi,2,2019,2022,3,2019-02-15,2022-02-17,23,0,22,3,19,468,353,35,22,82,4,0,24.63,132.58,5,84,14.0,122,2,61.0,8.71,42.0,1,0,13,0,1
+18fac429,SR Patel,SR Patel,0,SR Patel,Islamabad United|Lahore Qalandars,2,2018,2022,5,2018-02-24,2022-02-27,38,0,24,8,16,455,374,54,7,71,1,0,28.44,121.66,34,607,101.1,768,30,25.6,7.59,20.23,10,0,12,0,1
+62af8546,Mohammad Nabi,Mohammad Nabi,0,Mohammad Nabi,Quetta Gladiators|Karachi Kings,2,2016,2025,4,2016-02-04,2025-05-22,31,0,26,6,20,455,315,36,24,67,2,0,22.75,144.44,29,585,97.3,697,17,41.0,7.15,34.41,9,1,11,0,1
+0dc00542,Shahid Afridi,Shahid Afridi,0,Shahid Afridi,Peshawar Zalmi|Karachi Kings|Multan Sultans|Quetta Gladiators,4,2016,2022,7,2016-02-05,2022-02-12,52,0,37,7,30,452,302,22,35,54,1,0,15.07,149.67,50,1012,168.4,1210,46,26.3,7.17,22.0,18,0,15,0,3
+bbff906c,CAK Walton,CAK Walton,0,CAK Walton,Islamabad United|Karachi Kings,2,2018,2021,4,2018-02-24,2021-06-21,27,0,25,4,21,451,323,36,22,48,0,0,21.48,139.63,0,0,0.0,0,0,,,,0,0,16,2,0
+dc2abe5e,Ahsan Ali,Ahsan Ali,0,Ahsan Ali,Quetta Gladiators,1,2019,2026,4,2019-02-20,2026-04-15,20,0,19,1,18,448,338,50,13,73,3,0,24.89,132.54,1,6,1.0,9,1,9.0,9.0,6.0,0,0,8,0,0
+09a9d073,J Charles,J Charles,0,J Charles,Multan Sultans,1,2019,2024,4,2019-02-16,2024-03-18,18,0,16,1,15,435,283,46,18,57,3,0,29.0,153.71,0,0,0.0,0,0,,,,0,0,4,0,0
+e35b7b91,Muhammad Naeem,Muhammad Naeem,0,Muhammad Naeem,Lahore Qalandars,1,2025,2026,2,2025-04-11,2026-04-25,19,0,19,0,19,432,266,39,30,65,4,0,22.74,162.41,1,18,3.0,15,1,15.0,5.0,18.0,1,0,7,0,1
+4663bd23,TL Seifert,TL Seifert,0,TL Seifert,Karachi Kings,1,2024,2025,2,2024-02-28,2025-05-22,17,0,17,0,17,424,300,55,11,49,0,0,24.94,141.33,0,0,0.0,0,0,,,,0,0,7,2,0
+45a7e761,Shaheen Shah Afridi,Shaheen Shah Afridi,0,Shaheen Shah Afridi,Lahore Qalandars,1,2018,2026,9,2018-02-23,2026-04-25,94,0,50,13,37,410,314,20,34,55,2,0,11.08,130.57,93,2086,347.4,2769,138,20.07,7.96,15.12,102,10,26,0,6
+5ea51c25,Hazratullah,Hazratullah,0,Hazratullah,Peshawar Zalmi,1,2021,2022,2,2021-06-15,2022-02-21,12,0,12,0,12,382,250,45,18,77,4,0,31.83,152.8,0,0,0.0,0,0,,,,0,0,4,0,3
+30a45b23,SPD Smith,SPD Smith,0,SPD Smith,Multan Sultans,1,2026,2026,1,2026-03-28,2026-04-29,11,0,11,0,11,380,235,39,18,106,2,1,34.55,161.7,1,6,1.0,14,1,14.0,14.0,6.0,0,0,10,0,1
+f21043a5,MDKJ Perera,MDKJ Perera,0,MDKJ Perera,Lahore Qalandars|Hyderabad Kingsmen,2,2025,2026,2,2025-05-18,2026-05-03,15,0,14,3,11,380,244,35,15,62,4,0,34.55,155.74,0,0,0.0,0,0,,,,0,0,4,0,1
+db584dad,CH Gayle,CH Gayle,0,CH Gayle,Lahore Qalandars|Karachi Kings|Quetta Gladiators,3,2016,2021,3,2016-02-05,2021-02-22,16,0,16,0,16,370,271,24,29,68,2,0,23.12,136.53,1,6,1.0,5,0,,5.0,,0,0,3,0,1
+b3118300,Wahab Riaz,Wahab Riaz,0,Wahab Riaz,Peshawar Zalmi,1,2016,2023,8,2016-02-05,2023-03-17,87,0,54,21,33,359,280,31,14,33,0,0,10.88,128.21,86,1949,324.5,2534,111,22.83,7.8,17.56,82,23,24,0,2
+bdadf7da,JL Denly,JL Denly,0,JL Denly,Karachi Kings|Lahore Qalandars,2,2018,2021,2,2018-02-23,2021-02-28,13,0,13,1,12,354,287,42,11,79,3,0,29.5,123.34,1,12,2.0,15,0,,7.5,,0,0,9,0,0
+62fd0c5e,Sameer Minhas,Sameer Minhas,0,Sameer Minhas,Islamabad United,1,2026,2026,1,2026-03-28,2026-05-01,11,0,11,2,9,349,224,41,13,82,3,0,38.78,155.8,1,6,1.0,9,0,,9.0,,0,1,7,0,2
+fa433be6,M Labuschagne,M Labuschagne,0,M Labuschagne,Hyderabad Kingsmen,1,2026,2026,1,2026-03-26,2026-05-03,13,0,13,1,12,344,264,45,4,61,2,0,28.67,130.3,5,54,9.0,101,1,101.0,11.22,54.0,1,2,13,0,1
+2911de16,Hasan Ali,Hasan Ali,0,Hasan Ali,Peshawar Zalmi|Islamabad United|Karachi Kings,3,2016,2026,11,2016-02-17,2026-04-25,101,0,50,17,33,340,244,27,16,45,0,0,10.3,139.34,100,2292,382.0,3151,140,22.51,8.25,16.37,52,13,31,0,5
+6d9560f3,Maaz Sadaqat,Maaz Sadaqat,0,Maaz Sadaqat,Peshawar Zalmi|Hyderabad Kingsmen,2,2025,2026,2,2025-05-02,2026-05-03,16,0,15,2,13,338,193,33,20,64,3,0,26.0,175.13,3,36,6.0,38,2,19.0,6.33,18.0,2,0,10,0,2
+bb351c23,MM Ali,MM Ali,0,MM Ali,Multan Sultans|Karachi Kings,2,2020,2026,2,2020-02-21,2026-04-25,19,0,18,3,15,336,230,24,20,65,1,0,22.4,146.09,16,234,39.0,355,13,27.31,9.1,18.0,2,0,9,0,2
+3029e282,Umar Amin,Umar Amin,0,Umar Amin,Islamabad United|Quetta Gladiators|Peshawar Zalmi,3,2016,2021,5,2016-02-04,2021-06-19,21,0,18,4,14,332,307,36,4,61,2,0,23.71,108.14,0,0,0.0,0,0,,,,0,0,9,0,0
+b0c772ee,BJ Haddin,BJ Haddin,0,BJ Haddin,Islamabad United,1,2016,2017,2,2016-02-10,2017-03-01,17,0,17,4,13,327,250,25,15,73,4,0,25.15,130.8,0,0,0.0,0,0,,,,0,0,11,1,1
+eb2d5fe7,Anwar Ali,Anwar Ali,0,Anwar Ali,Quetta Gladiators|Multan Sultans|Karachi Kings,3,2016,2024,9,2016-02-04,2024-03-11,50,0,36,14,22,323,229,19,19,28,0,0,14.68,141.05,48,859,143.1,1305,36,36.25,9.12,23.86,38,3,19,0,0
+331ea488,UT Khawaja,UT Khawaja,0,UT Khawaja,Islamabad United|Rawalpindiz,2,2021,2026,2,2021-06-09,2026-04-26,10,0,10,3,7,321,214,40,6,105,2,1,45.86,150.0,0,0,0.0,0,0,,,,0,0,1,0,1
+45eda7c8,CA Lynn,CA Lynn,0,CA Lynn,Lahore Qalandars|Multan Sultans,2,2020,2021,2,2020-02-21,2021-02-27,12,0,12,1,11,318,183,38,17,113,1,1,28.91,173.77,0,0,0.0,0,0,,,,0,0,3,0,1
+0bacade8,Rahmanullah Gurbaz,Rahmanullah Gurbaz,0,Rahmanullah Gurbaz,Multan Sultans|Islamabad United,2,2021,2023,3,2021-06-10,2023-03-16,15,0,15,1,14,318,199,28,21,62,1,0,22.71,159.8,0,0,0.0,0,0,,,,0,0,7,0,0
+df5a6881,DP Conway,DP Conway,0,DP Conway,Islamabad United,1,2026,2026,1,2026-03-28,2026-05-01,11,0,11,2,9,315,244,36,11,59,2,0,35.0,129.1,0,0,0.0,0,0,,,,0,0,5,0,0
+4e18e961,WCF Smeed,WCF Smeed,0,WCF Smeed,Quetta Gladiators,1,2022,2023,2,2022-01-28,2023-03-08,10,0,10,0,10,315,234,36,11,99,2,0,31.5,134.62,0,0,0.0,0,0,,,,0,0,5,0,1
+b8a55852,BB McCullum,BB McCullum,0,BB McCullum,Lahore Qalandars,1,2017,2018,2,2017-02-10,2018-03-16,18,0,17,2,15,311,272,28,15,44,0,0,20.73,114.34,1,6,1.0,13,0,,13.0,,1,0,5,0,0
+3cf54e77,Khawaja Nafay,Khawaja Nafay,0,Khawaja Nafay,Quetta Gladiators,1,2024,2026,3,2024-02-18,2026-04-25,20,0,20,2,18,311,242,24,15,60,2,0,17.28,128.51,0,0,0.0,0,0,,,,0,0,11,0,1
+5691931a,Haseebullah Khan,Haseebullah Khan,0,Haseebullah Khan,Peshawar Zalmi|Quetta Gladiators|Lahore Qalandars,3,2023,2026,4,2023-03-01,2026-04-25,25,0,18,2,16,307,255,29,10,50,1,0,19.19,120.39,0,0,0.0,0,0,,,,0,0,21,3,0
+64d43928,Sohail Tanvir,Sohail Tanvir,0,Sohail Tanvir,Karachi Kings|Lahore Qalandars|Multan Sultans|Quetta Gladiators,4,2016,2022,7,2016-02-05,2022-02-18,59,0,36,18,18,298,278,20,12,36,0,0,16.56,107.19,58,1265,210.5,1667,54,30.87,7.91,23.43,52,5,17,0,3
+7fa12533,MS Chapman,MS Chapman,0,MS Chapman,Quetta Gladiators|Islamabad United,2,2025,2026,2,2025-04-25,2026-05-01,17,0,11,3,8,297,187,25,14,69,1,0,37.12,158.82,0,0,0.0,0,0,,,,0,0,9,0,1
+2eca67f5,JM Clarke,JM Clarke,0,JM Clarke,Karachi Kings,1,2021,2022,2,2021-02-20,2022-02-20,13,0,12,1,11,295,215,25,13,54,2,0,26.82,137.21,0,0,0.0,0,0,,,,0,0,7,1,0
+50250426,Asad Shafiq,Asad Shafiq,0,Asad Shafiq,Quetta Gladiators|Multan Sultans,2,2016,2020,4,2016-02-14,2020-03-15,17,0,16,1,15,280,267,31,5,51,1,0,18.67,104.87,0,0,0.0,0,0,,,,0,0,6,0,0
+431f8af4,Tayyab Tahir,Tayyab Tahir,0,Tayyab Tahir,Karachi Kings|Multan Sultans,2,2023,2025,3,2023-02-26,2025-05-18,14,0,11,2,9,280,193,30,9,65,1,0,31.11,145.08,0,0,0.0,0,0,,,,0,0,10,0,0
+ed90abe4,AP Devcich,AP Devcich,0,AP Devcich,Lahore Qalandars,1,2018,2019,2,2018-03-08,2019-03-09,10,0,10,0,10,279,205,26,12,70,2,0,27.9,136.1,2,12,2.0,31,0,,15.5,,2,0,3,0,0
+486065b3,Hassan Khan,Hassan Khan,0,Hassan Khan,Quetta Gladiators|Lahore Qalandars|Hyderabad Kingsmen,3,2017,2026,6,2017-02-10,2026-05-03,41,0,25,11,14,276,194,18,13,33,0,0,19.71,142.27,40,668,111.2,874,22,39.73,7.85,30.36,11,2,23,0,2
+e38bce7a,MG Bracewell,MG Bracewell,0,MG Bracewell,Multan Sultans|Peshawar Zalmi,2,2025,2026,2,2025-04-12,2026-05-03,19,0,15,2,13,273,165,24,17,83,1,0,21.0,165.45,16,264,44.0,430,11,39.09,9.77,24.0,5,0,5,0,1
+39086549,JR Philippe,JR Philippe,0,JR Philippe,Multan Sultans,1,2026,2026,1,2026-03-28,2026-04-29,11,0,11,0,11,268,177,30,7,56,2,0,24.36,151.41,0,0,0.0,0,0,,,,0,0,4,3,0
+cf494ffe,PR Stirling,PR Stirling,0,PR Stirling,Islamabad United,1,2021,2023,3,2021-02-27,2023-02-19,10,0,10,0,10,266,160,33,12,58,3,0,26.6,166.25,0,0,0.0,0,0,,,,0,0,2,0,1
+4ae1755b,HC Brook,HC Brook,0,HC Brook,Lahore Qalandars,1,2022,2022,1,2022-02-05,2022-02-27,10,0,8,3,5,264,154,23,11,102,0,1,52.8,171.43,0,0,0.0,0,0,,,,0,0,5,0,1
+96ce6752,Mirza Baig,Mirza Baig,0,Mirza Baig,Lahore Qalandars,1,2023,2024,2,2023-02-13,2024-03-10,12,0,12,0,12,260,211,30,10,54,1,0,21.67,123.22,0,0,0.0,0,0,,,,0,0,2,0,1
+2e8994e7,JP Duminy,JP Duminy,0,JP Duminy,Islamabad United,1,2018,2018,1,2018-02-28,2018-03-25,10,0,9,2,7,251,249,22,8,73,2,0,35.86,100.8,3,54,9.0,70,1,70.0,7.78,54.0,4,0,8,0,2
+ff1e12a0,AJ Turner,AJ Turner,0,AJ Turner,Multan Sultans,1,2025,2026,2,2025-04-19,2026-04-29,14,0,14,5,9,235,139,15,12,52,1,0,26.11,169.06,7,78,13.0,106,3,35.33,8.15,26.0,4,0,1,0,0
+d67d5f00,DA Miller,DA Miller,0,DA Miller,Peshawar Zalmi|Multan Sultans,2,2021,2023,2,2021-06-10,2023-03-07,11,0,9,1,8,235,163,19,10,73,2,0,29.38,144.17,0,0,0.0,0,0,,,,0,0,7,0,1
+4b345629,Zeeshan Ashraf,Zeeshan Ashraf,0,Zeeshan Ashraf,Multan Sultans|Lahore Qalandars,2,2020,2022,3,2020-02-21,2022-02-27,16,0,14,0,14,226,180,26,7,52,2,0,16.14,125.56,0,0,0.0,0,0,,,,0,0,7,1,1
+afa7e784,MS Wade,MS Wade,0,MS Wade,Karachi Kings,1,2023,2023,1,2023-02-14,2023-03-06,9,0,9,1,8,224,185,29,3,53,1,0,28.0,121.08,0,0,0.0,0,0,,,,0,0,4,2,0
+c4487b84,AB de Villiers,AB de Villiers,0,AB de Villiers,Lahore Qalandars,1,2019,2019,1,2019-02-14,2019-02-28,7,0,7,3,4,218,169,19,5,52,1,0,54.5,128.99,0,0,0.0,0,0,,,,0,0,2,0,1
+a8e54ef4,Aamer Jamal,Aamer Jamal,0,Aamer Jamal,Peshawar Zalmi|Karachi Kings,2,2023,2026,4,2023-03-01,2026-04-13,26,0,21,9,12,217,153,20,11,87,1,0,18.08,141.83,26,450,75.0,777,23,33.78,10.36,19.57,38,0,18,0,1
+d3395043,Shamyl Hussain,Shamyl Hussain,0,Shamyl Hussain,Quetta Gladiators,1,2026,2026,1,2026-03-27,2026-04-25,9,0,9,0,9,215,147,16,13,54,3,0,23.89,146.26,0,0,0.0,0,0,,,,0,0,4,0,1
+9d430b40,SP Narine,SP Narine,0,SP Narine,Lahore Qalandars,1,2017,2018,2,2017-02-10,2018-03-14,17,0,15,2,13,214,130,17,15,28,0,0,16.46,164.62,17,396,66.0,411,20,20.55,6.23,19.8,9,0,5,0,0
+bf74b130,FH Allen,FH Allen,0,FH Allen,Quetta Gladiators,1,2025,2025,1,2025-04-12,2025-05-25,11,0,10,1,9,213,124,23,13,53,1,0,23.67,171.77,0,0,0.0,0,0,,,,0,0,6,0,0
+eb75d76c,Saad Baig,Saad Baig,0,Saad Baig,Karachi Kings,1,2024,2026,3,2024-02-18,2026-04-19,14,0,12,0,12,213,169,34,1,53,1,0,17.75,126.04,0,0,0.0,0,0,,,,0,0,1,2,0
+5eea345c,Khalid Latif,Khalid Latif,0,Khalid Latif,Islamabad United,1,2016,2016,1,2016-02-07,2016-02-23,9,0,7,1,6,206,173,11,9,59,1,0,34.33,119.08,0,0,0.0,0,0,,,,0,0,3,0,0
+2cec2a92,Abbas Afridi,Abbas Afridi,0,Abbas Afridi,Karachi Kings|Multan Sultans,2,2021,2026,6,2021-03-03,2026-04-25,48,0,22,8,14,205,121,17,15,34,0,0,14.64,169.42,48,928,154.4,1500,68,22.06,9.7,13.65,41,9,12,0,2
+3d284ca3,PD Salt,PD Salt,0,PD Salt,Islamabad United|Lahore Qalandars,2,2019,2022,4,2019-02-14,2022-02-25,19,0,18,1,17,204,172,26,3,46,0,0,12.0,118.6,0,0,0.0,0,0,,,,0,0,12,3,0
+5f547c8b,Rashid Khan,Rashid Khan,0,Rashid Khan,Lahore Qalandars,1,2021,2023,3,2021-02-21,2023-03-18,28,0,20,10,10,203,147,16,11,27,0,0,20.3,138.1,28,666,111.0,681,44,15.48,6.14,15.14,12,0,7,0,3
+9e9af5f2,Mohammad Wasim,Mohammad Wasim,0,Mohammad Wasim,Islamabad United|Quetta Gladiators|Multan Sultans,3,2021,2026,6,2021-02-21,2026-04-26,51,0,28,11,17,201,155,14,12,26,0,0,11.82,129.68,51,1098,183.0,1758,54,32.56,9.61,20.33,46,2,22,0,1
+89f64c19,LMP Simmons,LMP Simmons,0,LMP Simmons,Karachi Kings,1,2016,2018,2,2016-02-05,2018-03-11,7,0,7,1,6,201,175,25,7,62,2,0,33.5,114.86,0,0,0.0,0,0,,,,0,0,2,0,0
+1fc6ef83,SD Hope,SD Hope,0,SD Hope,Lahore Qalandars|Multan Sultans,2,2023,2025,3,2023-02-13,2025-05-05,13,0,13,0,13,198,174,17,5,47,0,0,15.23,113.79,0,0,0.0,0,0,,,,0,0,7,0,0
+8e554b6b,Abdul Samad,Abdul Samad,0,Abdul Samad,Peshawar Zalmi,1,2025,2026,2,2025-04-19,2026-05-03,16,0,12,3,9,193,102,14,15,48,0,0,21.44,189.22,0,0,0.0,0,0,,,,0,0,16,0,1
+06c2de82,L Gregory,L Gregory,0,L Gregory,Peshawar Zalmi|Islamabad United|Karachi Kings,3,2020,2022,3,2020-02-28,2022-02-20,13,0,12,4,8,189,143,17,6,49,0,0,23.62,132.17,12,175,29.1,273,7,39.0,9.36,25.0,1,0,8,0,2
+82c78845,Khurram Manzoor,Khurram Manzoor,0,Khurram Manzoor,Karachi Kings|Quetta Gladiators,2,2018,2020,2,2018-02-23,2020-03-15,7,0,7,0,7,184,162,21,3,63,2,0,26.29,113.58,0,0,0.0,0,0,,,,0,0,1,0,0
+f8e3c0f8,Omair Yousuf,Omair Yousuf,0,Omair Yousuf,Quetta Gladiators|Karachi Kings,2,2023,2025,3,2023-03-06,2025-05-01,8,0,7,0,7,184,135,17,6,67,2,0,26.29,136.3,0,0,0.0,0,0,,,,0,0,1,0,0
+211de69f,Azhar Ali,Azhar Ali,0,Azhar Ali,Lahore Qalandars,1,2016,2016,1,2016-02-05,2016-02-17,7,0,7,0,7,183,172,22,3,61,1,0,26.14,106.4,2,30,5.0,30,0,,6.0,,0,0,3,0,0
+cca50cd6,LJ Wright,LJ Wright,0,LJ Wright,Quetta Gladiators,1,2016,2017,2,2016-02-04,2017-02-28,7,0,7,1,6,181,141,20,7,86,1,0,30.17,128.37,0,0,0.0,0,0,,,,0,0,1,0,0
+7dc35884,Shakib Al Hasan,Shakib Al Hasan,0,Shakib Al Hasan,Karachi Kings|Peshawar Zalmi|Lahore Qalandars,3,2016,2025,4,2016-02-05,2025-05-23,16,0,14,2,12,180,168,11,4,51,1,0,15.0,107.14,14,240,40.0,299,9,33.22,7.48,26.67,7,0,3,0,2
+bbd41817,AD Russell,AD Russell,0,AD Russell,Islamabad United|Multan Sultans|Quetta Gladiators,3,2016,2021,4,2016-02-04,2021-06-11,19,0,17,2,15,173,128,14,11,35,0,0,11.53,135.16,17,332,55.2,483,21,23.0,8.73,15.81,9,0,8,0,0
+1212cbec,Najibullah Zadran,Najibullah Zadran,0,Najibullah Zadran,Karachi Kings|Quetta Gladiators,2,2021,2023,2,2021-06-10,2023-03-06,7,0,7,1,6,171,126,11,9,71,2,0,28.5,135.71,0,0,0.0,0,0,,,,0,0,2,0,0
+8efab8ed,Umar Siddiq,Umar Siddiq,0,Umar Siddiq,Multan Sultans,1,2019,2019,1,2019-02-22,2019-03-11,7,0,7,0,7,169,150,13,8,53,1,0,24.14,112.67,0,0,0.0,0,0,,,,0,0,4,1,0
+ffe699c0,CJ Jordan,CJ Jordan,0,CJ Jordan,Peshawar Zalmi|Karachi Kings|Multan Sultans,3,2017,2025,7,2017-02-09,2025-05-01,37,0,24,14,10,167,136,11,9,36,0,0,16.7,122.79,37,788,131.2,1135,43,26.4,8.64,18.33,34,2,25,0,0
+e174dadd,Mohammad Amir,Mohammad Amir,0,Mohammad Amir,Karachi Kings|Quetta Gladiators|Rawalpindiz,3,2016,2026,10,2016-02-05,2026-04-26,92,0,34,14,20,166,137,21,6,30,0,0,8.3,121.17,92,2037,339.3,2631,97,27.12,7.75,21.0,112,2,8,0,1
+d2a6c0e6,EJG Morgan,EJG Morgan,0,EJG Morgan,Peshawar Zalmi|Karachi Kings,2,2017,2018,2,2017-02-09,2018-03-18,9,0,9,1,8,164,160,17,4,80,1,0,20.5,102.5,0,0,0.0,0,0,,,,0,0,2,0,1
+1bae756b,ADS Fletcher,ADS Fletcher,0,ADS Fletcher,Peshawar Zalmi,1,2018,2019,2,2018-03-06,2019-03-04,9,0,9,0,9,158,138,14,8,34,0,0,17.56,114.49,0,0,0.0,0,0,,,,0,0,2,0,0
+6c882e9a,PBB Rajapaksa,PBB Rajapaksa,0,PBB Rajapaksa,Peshawar Zalmi|Lahore Qalandars,2,2023,2025,2,2023-02-14,2025-05-25,8,0,8,2,6,156,107,16,6,41,0,0,26.0,145.79,0,0,0.0,0,0,,,,0,0,4,0,0
+f2e8b37c,Arafat Minhas,Arafat Minhas,0,Arafat Minhas,Karachi Kings|Multan Sultans,2,2024,2026,3,2024-03-09,2026-04-29,15,0,13,2,11,155,98,16,7,31,0,0,14.09,158.16,12,204,34.0,286,10,28.6,8.41,20.4,0,2,7,0,1
+d1305df0,AGS Gous,AGS Gous,0,AGS Gous,Islamabad United,1,2025,2026,2,2025-04-11,2026-04-02,8,0,8,1,7,155,111,14,8,80,1,0,22.14,139.64,0,0,0.0,0,0,,,,0,0,3,0,1
+907d6e58,Aamer Yamin,Aamer Yamin,0,Aamer Yamin,Peshawar Zalmi|Lahore Qalandars|Karachi Kings,3,2016,2023,8,2016-02-17,2023-03-06,33,0,16,3,13,153,115,8,11,35,0,0,11.77,133.04,32,560,93.2,833,24,34.71,8.93,23.33,24,5,11,0,0
+7cd0a092,Haris Sohail,Haris Sohail,0,Haris Sohail,Peshawar Zalmi|Lahore Qalandars,2,2017,2019,3,2017-02-09,2019-03-11,11,0,11,2,9,153,178,11,2,43,0,0,17.0,85.96,0,0,0.0,0,0,,,,0,0,4,0,0
+2a2e6343,DT Christian,DT Christian,0,DT Christian,Multan Sultans|Karachi Kings,2,2019,2021,2,2019-02-20,2021-03-03,13,0,10,3,7,152,103,14,6,27,0,0,21.71,147.57,10,137,22.5,247,9,27.44,10.82,15.22,5,0,6,0,1
+f69f1d8a,Umaid Asif,Umaid Asif,0,Umaid Asif,Peshawar Zalmi|Karachi Kings|Quetta Gladiators,3,2018,2023,6,2018-02-24,2023-03-11,47,0,18,9,9,151,94,11,11,25,0,0,16.78,160.64,47,1040,173.2,1459,48,30.4,8.42,21.67,27,0,11,0,1
+edc7ddb6,J Weatherald,J Weatherald,0,J Weatherald,Quetta Gladiators,1,2021,2021,1,2021-06-11,2021-06-19,5,0,5,0,5,148,118,16,7,48,0,0,29.6,125.42,0,0,0.0,0,0,,,,0,0,1,0,0
+5af743d0,Sohail Khan,Sohail Khan,0,Sohail Khan,Karachi Kings|Lahore Qalandars|Quetta Gladiators|Multan Sultans|Peshawar Zalmi,5,2016,2024,8,2016-02-12,2024-03-10,44,0,24,7,17,144,149,7,9,32,0,0,8.47,96.64,43,942,157.0,1392,40,34.8,8.87,23.55,40,2,4,0,0
+808f425a,JP Faulkner,JP Faulkner,0,JP Faulkner,Lahore Qalandars|Quetta Gladiators,2,2021,2022,2,2021-06-09,2022-02-12,12,0,8,3,5,139,80,7,10,33,0,0,27.8,173.75,12,264,44.0,352,19,18.53,8.0,13.89,1,0,2,0,0
+c03449e0,GD Elliott,GD Elliott,0,GD Elliott,Quetta Gladiators|Lahore Qalandars,2,2016,2017,2,2016-02-11,2017-02-25,13,0,12,2,10,139,134,8,5,40,0,0,13.9,103.73,13,204,34.0,249,15,16.6,7.32,13.6,5,0,5,0,2
+8dd02a98,LD Chandimal,LD Chandimal,0,LD Chandimal,Quetta Gladiators,1,2025,2026,2,2025-05-18,2026-04-25,6,0,6,2,4,139,81,10,9,48,0,0,34.75,171.6,0,0,0.0,0,0,,,,0,0,1,1,0
+87e562a9,DJ Bravo,DJ Bravo,0,DJ Bravo,Lahore Qalandars|Quetta Gladiators,2,2016,2019,2,2016-02-05,2019-03-17,14,0,12,5,7,134,127,12,2,32,0,0,19.14,105.51,14,306,51.0,425,11,38.64,8.33,27.82,9,0,4,0,1
+d405c0d5,AM Hardie,AM Hardie,0,AM Hardie,Peshawar Zalmi,1,2026,2026,1,2026-03-28,2026-05-03,6,0,6,3,3,133,89,12,4,56,1,0,44.33,149.44,6,114,19.0,141,11,12.82,7.42,10.36,4,0,2,0,1
+23393635,D Forrester,D Forrester,0,D Forrester,Rawalpindiz,1,2026,2026,1,2026-04-04,2026-04-26,6,0,6,3,3,132,77,7,11,44,0,0,44.0,171.43,5,34,5.4,72,2,36.0,12.71,17.0,2,1,5,0,0
+c6a1b1bb,Amad Butt,Amad Butt,0,Amad Butt,Islamabad United|Peshawar Zalmi|Rawalpindiz,3,2017,2026,7,2017-02-09,2026-04-26,24,0,15,5,10,130,91,9,8,27,0,0,13.0,142.86,22,416,69.2,680,21,32.38,9.81,19.81,15,2,11,0,0
+4d7f517e,AJ Hosein,AJ Hosein,0,AJ Hosein,Multan Sultans|Quetta Gladiators,2,2023,2025,3,2023-02-13,2025-04-13,14,0,11,4,7,128,107,6,7,31,0,0,18.29,119.63,14,330,55.0,446,18,24.78,8.11,18.33,6,0,4,0,0
+2d4dc51e,Farhan Yousaf,Farhan Yousaf,0,Farhan Yousaf,Peshawar Zalmi,1,2026,2026,1,2026-03-28,2026-05-03,11,0,7,2,5,128,84,10,7,58,1,0,25.6,152.38,0,0,0.0,0,0,,,,0,0,10,0,0
+9739e85c,Muhammad Akhlaq,Muhammad Akhlaq,0,Muhammad Akhlaq,Islamabad United|Karachi Kings|Lahore Qalandars,3,2021,2025,5,2021-06-14,2025-05-25,11,0,9,0,9,128,98,15,6,51,1,0,14.22,130.61,0,0,0.0,0,0,,,,0,0,6,0,1
+522bea89,Rohail Nazir,Rohail Nazir,0,Rohail Nazir,Multan Sultans|Islamabad United|Karachi Kings,3,2020,2022,3,2020-03-13,2022-02-20,9,0,8,0,8,128,103,17,2,34,0,0,16.0,124.27,0,0,0.0,0,0,,,,0,0,3,1,0
+b6359668,Qasim Akram,Qasim Akram,0,Qasim Akram,Karachi Kings,1,2021,2023,3,2021-06-10,2023-03-12,9,0,8,1,7,126,90,11,5,51,1,0,18.0,140.0,3,36,6.0,52,1,52.0,8.67,36.0,1,0,6,0,0
+6dd8b88c,Usama Mir,Usama Mir,0,Usama Mir,Karachi Kings|Multan Sultans|Lahore Qalandars,3,2016,2026,8,2016-02-07,2026-04-23,56,0,23,5,18,121,85,7,10,22,0,0,6.72,142.35,56,1179,196.3,1625,67,24.25,8.27,17.6,17,0,17,0,1
+22d73540,Jahandad Khan,Jahandad Khan,0,Jahandad Khan,Lahore Qalandars|Quetta Gladiators,2,2024,2026,3,2024-02-17,2026-04-25,16,0,11,3,8,121,73,9,8,45,0,0,15.12,165.75,16,264,44.0,443,11,40.27,10.07,24.0,7,3,5,0,0
+24bb1c2f,Haris Rauf,Haris Rauf,0,Haris Rauf,Lahore Qalandars,1,2019,2026,8,2019-02-14,2026-04-25,79,0,24,5,19,120,119,7,9,19,0,0,6.32,100.84,78,1717,286.1,2676,95,28.17,9.35,18.07,78,5,22,0,1
+caf69bf7,DR Sams,DR Sams,0,DR Sams,Karachi Kings|Peshawar Zalmi|Lahore Qalandars,3,2024,2026,3,2024-02-18,2026-04-25,10,0,7,4,3,118,68,12,6,35,0,0,39.33,173.53,10,204,34.0,340,8,42.5,10.0,25.5,12,1,0,0,0
+b2498b5d,Saad Masood,Saad Masood,0,Saad Masood,Peshawar Zalmi|Islamabad United|Rawalpindiz,3,2023,2026,3,2023-02-26,2026-04-26,10,0,7,1,6,117,66,16,4,54,1,0,19.5,177.27,9,174,29.0,253,7,36.14,8.72,24.86,7,3,3,0,0
+e342e5fb,CR Brathwaite,CR Brathwaite,0,CR Brathwaite,Lahore Qalandars|Peshawar Zalmi|Multan Sultans,3,2019,2024,5,2019-02-14,2024-02-27,18,0,12,6,6,111,74,10,5,22,0,0,18.5,150.0,17,293,48.5,425,12,35.42,8.7,24.42,12,0,4,0,0
+a4799701,Danish Aziz,Danish Aziz,0,Danish Aziz,Karachi Kings|Quetta Gladiators|Islamabad United,3,2018,2025,5,2018-03-21,2025-05-18,9,0,8,2,6,111,91,7,7,45,0,0,18.5,121.98,5,29,4.5,53,0,,10.97,,0,0,3,0,1
+ebd1ab1f,Gulraiz Sadaf,Gulraiz Sadaf,0,Gulraiz Sadaf,Lahore Qalandars,1,2018,2018,1,2018-02-24,2018-03-16,5,0,5,2,3,110,121,8,3,42,0,0,36.67,90.91,0,0,0.0,0,0,,,,0,0,2,0,0
+57bd3ecc,Hammad Azam,Hammad Azam,0,Hammad Azam,Lahore Qalandars|Peshawar Zalmi|Multan Sultans|Hyderabad Kingsmen,4,2016,2026,6,2016-02-06,2026-03-29,14,0,14,4,10,110,113,8,1,29,0,0,11.0,97.35,4,43,7.1,77,0,,10.74,,0,0,4,0,0
+3355b542,F du Plessis,F du Plessis,0,F du Plessis,Peshawar Zalmi|Quetta Gladiators,2,2020,2021,2,2020-11-14,2021-06-12,6,0,5,0,5,107,87,9,2,37,0,0,21.4,122.99,0,0,0.0,0,0,,,,0,0,3,0,0
+ff154ecd,JM Cox,JM Cox,0,JM Cox,Islamabad United,1,2024,2024,1,2024-02-20,2024-03-06,6,0,5,1,4,106,86,7,3,41,0,0,26.5,123.26,0,0,0.0,0,0,,,,0,0,3,0,0
+7bcde3fe,AM Rossington,AM Rossington,0,AM Rossington,Karachi Kings,1,2023,2023,1,2023-03-01,2023-03-06,3,0,3,0,3,104,69,16,2,69,1,0,34.67,150.72,0,0,0.0,0,0,,,,0,0,1,0,0
+1c513d54,LJ Evans,LJ Evans,0,LJ Evans,Multan Sultans|Quetta Gladiators,2,2019,2024,2,2019-02-15,2024-03-15,9,0,9,0,9,103,116,10,0,49,0,0,11.44,88.79,0,0,0.0,0,0,,,,0,0,6,0,0
+e1b9f3a9,BJ Dwarshuis,BJ Dwarshuis,0,BJ Dwarshuis,Islamabad United,1,2025,2025,1,2025-04-14,2025-05-21,7,0,6,4,2,102,60,7,6,33,0,0,51.0,170.0,7,126,21.0,216,6,36.0,10.29,21.0,9,0,1,0,0
+f2c936d7,MJ Owen,MJ Owen,0,MJ Owen,Peshawar Zalmi,1,2025,2025,1,2025-04-12,2025-05-05,8,0,7,0,7,102,53,5,11,34,0,0,14.57,192.45,2,17,2.5,20,2,10.0,7.06,8.5,0,0,5,0,0
+972f217b,BJ Jacobs,BJ Jacobs,0,BJ Jacobs,Quetta Gladiators,1,2026,2026,1,2026-04-02,2026-04-21,6,0,6,2,4,102,75,5,8,49,0,0,25.5,136.0,0,0,0.0,0,0,,,,0,0,0,0,0
+b681e71e,GJ Maxwell,GJ Maxwell,0,GJ Maxwell,Hyderabad Kingsmen,1,2026,2026,1,2026-04-11,2026-05-03,9,0,8,1,7,99,69,9,5,70,1,0,14.14,143.48,6,96,16.0,135,5,27.0,8.44,19.2,2,0,4,0,0
+7298fa49,Shahid Yousuf,Shahid Yousuf,0,Shahid Yousuf,Peshawar Zalmi,1,2016,2016,1,2016-02-05,2016-02-21,8,0,6,1,5,99,97,9,1,27,0,0,19.8,102.06,0,0,0.0,0,0,,,,0,0,2,0,0
+9c9af282,Naseem Shah,Naseem Shah,0,Naseem Shah,Quetta Gladiators|Islamabad United|Rawalpindiz,3,2020,2026,7,2020-02-23,2026-04-23,53,0,21,7,14,98,85,8,6,27,0,0,7.0,115.29,53,1161,193.3,1599,52,30.75,8.26,22.33,51,13,10,0,1
+e86754b2,TK Curran,TK Curran,0,TK Curran,Islamabad United|Lahore Qalandars|Quetta Gladiators,3,2023,2026,3,2023-02-16,2026-04-15,13,0,8,2,6,97,65,6,6,31,0,0,16.17,149.23,12,234,39.0,361,10,36.1,9.26,23.4,8,1,3,0,0
+c722b382,Mohsin Riaz,Mohsin Riaz,0,Mohsin Riaz,Islamabad United,1,2026,2026,1,2026-04-24,2026-05-01,4,0,4,0,4,97,59,13,3,42,0,0,24.25,164.41,0,0,0.0,0,0,,,,0,0,2,0,0
+19b9f399,CJ Green,CJ Green,0,CJ Green,Multan Sultans|Islamabad United,2,2019,2026,2,2019-02-15,2026-05-01,15,0,8,3,5,96,72,9,3,29,0,0,19.2,133.33,14,264,44.0,294,12,24.5,6.68,22.0,3,0,9,0,1
+9219eff0,JDS Neesham,JDS Neesham,0,JDS Neesham,Peshawar Zalmi|Islamabad United,2,2023,2025,2,2023-02-14,2025-05-23,9,0,9,1,8,96,74,6,5,38,0,0,12.0,129.73,9,162,27.0,242,7,34.57,8.96,23.14,2,0,2,0,1
+90f47cf2,MH Wessels,MH Wessels,0,MH Wessels,Karachi Kings|Peshawar Zalmi|Lahore Qalandars,3,2016,2019,3,2016-02-17,2019-03-11,8,0,8,1,7,96,94,11,2,31,0,0,13.71,102.13,0,0,0.0,0,0,,,,0,0,1,0,0
+7f048519,DJ Willey,DJ Willey,0,DJ Willey,Multan Sultans,1,2022,2025,3,2022-01-27,2025-05-05,26,0,13,4,9,95,109,6,3,28,0,0,10.56,87.16,26,519,86.3,722,34,21.24,8.35,15.26,22,0,14,0,0
+b57f8a9a,BJ Hodge,BJ Hodge,0,BJ Hodge,Peshawar Zalmi,1,2016,2016,1,2016-02-14,2016-02-21,4,0,4,2,2,93,61,6,6,85,1,0,46.5,152.46,0,0,0.0,0,0,,,,0,0,0,0,1
+88fece92,Abdullah Fazal,Abdullah Fazal,0,Abdullah Fazal,Rawalpindiz,1,2026,2026,1,2026-03-28,2026-04-23,7,0,7,2,5,91,67,5,6,23,0,0,18.2,135.82,0,0,0.0,0,0,,,,0,0,5,0,0
+5f26f677,BM Duckett,BM Duckett,0,BM Duckett,Islamabad United|Quetta Gladiators,2,2017,2022,2,2017-02-20,2022-02-03,6,0,6,0,6,90,84,12,1,47,0,0,15.0,107.14,0,0,0.0,0,0,,,,0,0,2,0,0
+0f12f9df,NLTC Perera,NLTC Perera,0,NLTC Perera,Quetta Gladiators|Karachi Kings,2,2017,2021,3,2017-02-10,2021-06-21,10,0,8,1,7,89,66,7,5,37,0,0,12.71,134.85,10,157,26.1,235,11,21.36,8.98,14.27,2,1,6,0,0
+47ea9d7a,Mohammad Farooq,Mohammad Farooq,0,Mohammad Farooq,Lahore Qalandars,1,2026,2026,1,2026-04-17,2026-04-23,4,0,4,0,4,87,69,7,7,63,1,0,21.75,126.09,0,0,0.0,0,0,,,,0,0,2,0,0
+6f02fe2a,Waseem Muhammad,Waseem Muhammad,0,Waseem Muhammad,Karachi Kings,1,2026,2026,1,2026-03-27,2026-04-11,5,0,5,0,5,86,73,9,3,38,0,0,17.2,117.81,0,0,0.0,0,0,,,,0,0,3,0,0
+57590dbb,PI Walter,PI Walter,0,PI Walter,Peshawar Zalmi,1,2024,2024,1,2024-02-23,2024-03-14,5,0,5,2,3,84,62,11,1,33,0,0,28.0,135.48,5,66,11.0,108,2,54.0,9.82,33.0,2,0,1,0,0
+3fbb43a9,Saad Nasim,Saad Nasim,0,Saad Nasim,Quetta Gladiators|Peshawar Zalmi,2,2017,2018,2,2017-02-18,2018-03-25,8,0,8,1,7,83,63,9,3,35,0,0,11.86,131.75,1,6,1.0,9,0,,9.0,,0,0,3,0,0
+25f7b7d6,T Banton,T Banton,0,T Banton,Peshawar Zalmi|Quetta Gladiators,2,2020,2021,2,2020-02-21,2021-02-22,9,0,9,1,8,83,68,10,2,34,0,0,10.38,122.06,0,0,0.0,0,0,,,,0,0,7,0,0
+3031bf83,Rizwan Hussain,Rizwan Hussain,0,Rizwan Hussain,Islamabad United,1,2019,2020,2,2019-02-14,2020-03-14,9,0,8,0,8,82,77,9,1,22,0,0,10.25,106.49,0,0,0.0,0,0,,,,0,0,2,0,0
+f846de6a,MN Samuels,MN Samuels,0,MN Samuels,Peshawar Zalmi,1,2017,2017,1,2017-02-24,2017-03-05,5,0,5,1,4,81,67,5,3,37,0,0,20.25,120.9,0,0,0.0,0,0,,,,0,0,1,0,0
+4f77a235,Mohammad Faiq,Mohammad Faiq,0,Mohammad Faiq,Islamabad United,1,2026,2026,1,2026-04-04,2026-04-23,5,0,5,1,4,81,63,9,1,34,0,0,20.25,128.57,0,0,0.0,0,0,,,,0,0,2,0,0
+bf1d7d3e,Mahmudullah,Mahmudullah,0,Mahmudullah,Quetta Gladiators,1,2017,2018,2,2017-02-15,2018-03-20,9,0,5,2,3,71,59,6,2,29,0,0,23.67,120.34,7,104,17.2,137,8,17.12,7.9,13.0,0,1,2,0,1
+732c038e,KIC Asalanka,KIC Asalanka,0,KIC Asalanka,Lahore Qalandars,1,2026,2026,1,2026-04-17,2026-04-25,5,0,5,1,4,71,60,7,2,33,0,0,17.75,118.33,2,18,3.0,26,0,,8.67,,0,0,0,0,0
+489aaf0a,Parvez Hossain Emon,Parvez Hossain Emon,0,Parvez Hossain Emon,Lahore Qalandars,1,2026,2026,1,2026-03-26,2026-04-03,3,0,3,0,3,71,44,2,7,45,0,0,23.67,161.36,0,0,0.0,0,0,,,,0,0,0,0,0
+abb7c76c,Abrar Ahmed,Abrar Ahmed,0,Abrar Ahmed,Karachi Kings|Peshawar Zalmi|Islamabad United|Quetta Gladiators,4,2017,2026,6,2017-02-10,2026-04-25,39,0,17,6,11,70,64,10,2,24,0,0,6.36,109.38,39,891,148.3,1166,48,24.29,7.85,18.56,16,0,8,0,2
+0f721006,JO Holder,JO Holder,0,JO Holder,Islamabad United,1,2025,2025,1,2025-04-11,2025-05-07,8,0,5,3,2,69,42,7,3,32,0,0,34.5,164.29,8,180,30.0,281,15,18.73,9.37,12.0,10,5,6,0,2
+7fca84b7,BA King,BA King,0,BA King,Islamabad United,1,2021,2021,1,2021-06-17,2021-06-22,3,0,3,1,2,69,45,7,4,46,0,0,34.5,153.33,0,0,0.0,0,0,,,,0,0,0,0,0
+9550470d,WIA Fernando,WIA Fernando,0,WIA Fernando,Quetta Gladiators,1,2025,2025,1,2025-05-18,2025-05-25,3,0,3,0,3,68,48,8,1,32,0,0,22.67,141.67,0,0,0.0,0,0,,,,0,0,2,0,0
+935678ee,Aamer Azmat,Aamer Azmat,0,Aamer Azmat,Multan Sultans,1,2022,2025,2,2022-02-16,2025-05-18,7,0,5,1,4,67,60,7,1,33,0,0,16.75,111.67,1,6,1.0,3,0,,3.0,,1,0,8,0,0
+9656afbf,Ahmed Daniyal,Ahmed Daniyal,0,Ahmed Daniyal,Lahore Qalandars|Peshawar Zalmi|Quetta Gladiators,3,2021,2026,3,2021-02-21,2026-04-05,18,0,8,4,4,66,54,6,3,24,0,0,16.5,122.22,17,368,61.2,555,17,32.65,9.05,21.65,21,1,5,0,1
+7264b765,Mubasir Khan,Mubasir Khan,0,Mubasir Khan,Islamabad United|Rawalpindiz,2,2022,2026,3,2022-01-30,2026-04-16,16,0,8,0,8,66,64,6,1,21,0,0,8.25,103.12,13,129,21.3,192,3,64.0,8.93,43.0,1,0,7,0,0
+b0946605,AS Joseph,AS Joseph,0,AS Joseph,Peshawar Zalmi|Quetta Gladiators,2,2025,2026,2,2025-04-12,2026-04-25,17,0,12,6,6,64,51,4,3,24,0,0,10.67,125.49,17,381,63.3,590,20,29.5,9.29,19.05,14,4,6,0,1
+fd201eb4,Shahzaib Hasan,Shahzaib Hasan,0,Shahzaib Hasan,Karachi Kings,1,2016,2017,2,2016-02-14,2017-02-11,4,0,4,0,4,64,52,7,2,27,0,0,16.0,123.08,0,0,0.0,0,0,,,,0,0,1,0,0
+8bdac857,JW Wells,JW Wells,0,JW Wells,Peshawar Zalmi,1,2021,2021,1,2021-06-22,2021-06-24,2,0,2,1,1,61,56,6,3,55,1,0,61.0,108.93,0,0,0.0,0,0,,,,0,0,0,0,0
+9b8a3c39,Muhammad Musa,Muhammad Musa,0,Muhammad Musa,Islamabad United|Karachi Kings,2,2019,2023,5,2019-02-22,2023-03-06,22,0,8,6,2,59,51,6,3,26,0,0,29.5,115.69,20,400,66.4,642,22,29.18,9.63,18.18,10,3,4,0,0
+70b8fd28,A Lyth,A Lyth,0,A Lyth,Multan Sultans,1,2020,2020,1,2020-11-14,2020-11-15,2,0,2,0,2,59,36,4,4,50,1,0,29.5,163.89,2,18,3.0,26,1,26.0,8.67,18.0,0,1,2,0,0
+8596fe80,Mohammad Hasnain,Mohammad Hasnain,0,Mohammad Hasnain,Quetta Gladiators|Multan Sultans|Islamabad United,3,2019,2026,8,2019-02-27,2026-04-23,46,0,19,9,10,56,71,7,1,22,0,0,5.6,78.87,46,984,164.0,1483,55,26.96,9.04,17.89,47,4,6,0,2
+86229495,Ahsan Hafeez,Ahsan Hafeez,0,Ahsan Hafeez,Lahore Qalandars,1,2023,2024,2,2023-03-17,2024-03-09,6,0,5,0,5,56,40,6,2,20,0,0,11.2,140.0,5,48,8.0,80,3,26.67,10.0,16.0,2,0,0,0,0
+d3cefce5,Bismillah Khan,Bismillah Khan,0,Bismillah Khan,Quetta Gladiators,1,2016,2016,1,2016-02-16,2016-02-23,3,0,3,0,3,55,35,10,1,55,1,0,18.33,157.14,0,0,0.0,0,0,,,,0,0,0,0,1
+f0e722e0,Usman Shinwari,Usman Shinwari,0,Usman Shinwari,Karachi Kings|Lahore Qalandars|Quetta Gladiators,3,2017,2022,6,2017-02-16,2022-02-20,38,0,12,6,6,54,53,1,5,30,0,0,9.0,101.89,38,792,132.0,1161,42,27.64,8.8,18.86,13,13,5,0,4
+33155d1b,IR Bell,IR Bell,0,IR Bell,Islamabad United,1,2019,2019,1,2019-02-22,2019-02-22,1,0,1,0,1,54,46,6,0,54,1,0,54.0,117.39,0,0,0.0,0,0,,,,0,0,0,0,0
+65b6943c,L Wood,L Wood,0,L Wood,Quetta Gladiators|Peshawar Zalmi,2,2022,2025,3,2022-02-07,2025-05-18,20,0,10,4,6,51,41,2,4,17,0,0,8.5,124.39,20,453,75.3,602,24,25.08,7.97,18.88,9,2,5,0,1
+23cca426,OF Smith,OF Smith,0,OF Smith,Quetta Gladiators,1,2023,2023,1,2023-02-18,2023-03-05,6,0,6,3,3,50,40,5,3,25,0,0,16.67,125.0,6,123,20.3,212,5,42.4,10.34,24.6,11,1,1,0,0
+65a2fff5,Mohammad Imran,Mohammad Imran [65a2],1,Mohammad Imran,Peshawar Zalmi|Multan Sultans,2,2020,2026,2,2020-11-14,2026-04-29,6,0,5,2,3,50,24,5,3,26,0,0,16.67,208.33,6,114,19.0,166,4,41.5,8.74,28.5,10,2,5,0,0
+f32012f4,M Bryant,M Bryant,0,M Bryant,Peshawar Zalmi,1,2025,2025,1,2025-04-12,2025-05-18,5,0,5,2,3,49,30,7,1,38,0,0,16.33,163.33,0,0,0.0,0,0,,,,0,0,0,0,0
+a94e08ea,Mushfiqur Rahim,Mushfiqur Rahim,0,Mushfiqur Rahim,Karachi Kings,1,2016,2016,1,2016-02-12,2016-02-14,3,0,3,1,2,49,39,4,1,33,0,0,24.5,125.64,0,0,0.0,0,0,,,,0,0,1,2,0
+acee4cc4,Imran Tahir,Imran Tahir,0,Imran Tahir,Multan Sultans|Karachi Kings,2,2018,2023,5,2018-02-22,2023-03-12,43,0,10,3,7,48,53,5,1,14,0,0,6.86,90.57,42,936,156.0,1100,56,19.64,7.05,16.71,17,0,15,0,4
+9489623e,Asif Afridi,Asif Afridi,0,Asif Afridi,Multan Sultans|Lahore Qalandars|Rawalpindiz,3,2022,2026,3,2022-02-16,2026-04-26,22,0,10,5,5,48,52,5,2,15,0,0,9.6,92.31,21,411,68.3,511,22,23.23,7.46,18.68,4,1,3,0,0
+a316d663,GC Viljoen,GC Viljoen,0,GC Viljoen,Multan Sultans|Lahore Qalandars|Peshawar Zalmi,3,2018,2020,3,2018-02-22,2020-11-14,5,0,4,1,3,48,33,4,3,37,0,0,16.0,145.45,5,90,15.0,139,4,34.75,9.27,22.5,5,0,4,0,0
+542fd5a6,IA Cockbain,IA Cockbain,0,IA Cockbain,Karachi Kings,1,2022,2022,1,2022-02-04,2022-02-13,3,0,3,0,3,47,37,5,1,31,0,0,15.67,127.03,0,0,0.0,0,0,,,,0,0,0,0,0
+3a60e0b5,WD Parnell,WD Parnell,0,WD Parnell,Islamabad United|Karachi Kings,2,2019,2020,2,2019-02-17,2020-11-14,4,0,3,0,3,47,31,7,1,41,0,0,15.67,151.61,3,30,5.0,67,0,,13.4,,0,0,1,0,0
+9211d267,Rafatullah Mohmand,Rafatullah Mohmand,0,Rafatullah Mohmand,Islamabad United,1,2017,2017,1,2017-02-18,2017-02-24,3,0,3,0,3,46,37,2,4,18,0,0,15.33,124.32,0,0,0.0,0,0,,,,0,0,0,0,0
+f2800ef3,Yasir Shah,Yasir Shah,0,Yasir Shah,Lahore Qalandars|Peshawar Zalmi,2,2017,2020,4,2017-02-10,2020-03-10,27,0,13,4,9,45,53,3,2,22,0,0,5.0,84.91,27,571,95.1,692,26,26.62,7.27,21.96,8,1,4,0,1
+8d5d991e,Qais Ahmad,Qais Ahmad,0,Qais Ahmad,Quetta Gladiators,1,2021,2023,2,2021-02-20,2023-03-11,6,0,4,2,2,44,30,5,2,17,0,0,22.0,146.67,6,138,23.0,247,9,27.44,10.74,15.33,7,0,0,0,1
+e9ea5eb5,Khalid Usman,Khalid Usman,0,Khalid Usman,Peshawar Zalmi,1,2018,2022,3,2018-03-01,2022-02-24,5,0,3,2,1,43,34,3,1,19,0,0,43.0,126.47,4,90,15.0,114,3,38.0,7.6,30.0,2,0,3,0,0
+4d6d6280,Salman Butt,Salman Butt,0,Salman Butt,Lahore Qalandars,1,2019,2020,2,2019-02-22,2020-03-04,3,0,3,0,3,43,50,3,0,21,0,0,14.33,86.0,0,0,0.0,0,0,,,,0,0,0,0,0
+8abdf100,CJ Anderson,CJ Anderson,0,CJ Anderson,Lahore Qalandars,1,2019,2019,1,2019-02-23,2019-02-28,3,0,2,0,2,41,36,1,3,22,0,0,20.5,113.89,0,0,0.0,0,0,,,,0,0,0,0,0
+d0540390,Nauman Anwar,Nauman Anwar,0,Nauman Anwar,Karachi Kings,1,2016,2016,1,2016-02-05,2016-02-13,4,0,4,0,4,41,36,3,3,35,0,0,10.25,113.89,0,0,0.0,0,0,,,,0,0,1,0,0
+9fd3a210,Zafar Gohar,Zafar Gohar,0,Zafar Gohar,Lahore Qalandars|Islamabad United,2,2016,2022,6,2016-02-05,2022-02-20,17,0,8,4,4,40,45,1,1,13,0,0,10.0,88.89,16,278,46.2,389,18,21.61,8.4,15.44,15,0,3,0,0
+73c18486,KR Mayers,KR Mayers,0,KR Mayers,Islamabad United,1,2025,2025,1,2025-05-02,2025-05-07,3,0,3,0,3,40,36,5,2,22,0,0,13.33,111.11,2,18,3.0,31,1,31.0,10.33,18.0,1,0,0,0,0
+e191bf68,Rameez Raja,Rameez Raja,0,Rameez Raja (2),Quetta Gladiators,1,2018,2018,1,2018-03-03,2018-03-14,5,0,5,1,4,40,33,2,2,22,0,0,10.0,121.21,0,0,0.0,0,0,,,,0,0,0,0,0
+68ddabdb,Mohammad Sami,Mohammad Sami,0,Mohammad Sami,Islamabad United,1,2016,2019,4,2016-02-07,2019-03-15,36,0,14,8,6,39,39,2,1,20,0,0,6.5,100.0,36,762,127.0,875,42,20.83,6.89,18.14,20,7,11,0,5
+bbfa0b42,Mohammad Ilyas,Mohammad Ilyas,0,Mohammad Ilyas,Multan Sultans|Karachi Kings,2,2019,2023,5,2019-02-15,2023-03-07,28,0,11,5,6,39,45,2,0,9,0,0,6.5,86.67,26,458,76.2,711,28,25.39,9.31,16.36,18,1,8,0,0
+b8eddbdb,Imran Khalid,Imran Khalid,0,Imran Khalid,Islamabad United,1,2016,2017,2,2016-02-04,2017-02-17,12,0,5,0,5,39,43,1,2,18,0,0,7.8,90.7,11,169,28.1,199,10,19.9,7.07,16.9,6,0,5,0,1
+8d964ae6,Shahid Aziz,Shahid Aziz,0,Shahid Aziz,Multan Sultans|Karachi Kings,2,2025,2026,2,2025-04-12,2026-04-22,6,0,5,0,5,38,26,3,2,29,0,0,7.6,146.15,6,72,12.0,102,5,20.4,8.5,14.4,5,0,1,0,0
+7d5e0b78,J Allenby,J Allenby,0,J Allenby,Peshawar Zalmi,1,2016,2016,1,2016-02-12,2016-02-17,2,0,2,0,2,38,40,5,0,31,0,0,19.0,95.0,0,0,0.0,0,0,,,,0,0,0,0,0
+4cbf2e06,Saad Ali,Saad Ali,0,Saad Ali,Lahore Qalandars|Hyderabad Kingsmen,2,2019,2026,2,2019-03-11,2026-04-01,3,0,3,0,3,38,40,1,1,23,0,0,12.67,95.0,0,0,0.0,0,0,,,,0,0,0,0,0
+33742f04,Usman Qadir,Usman Qadir,0,Usman Qadir,Multan Sultans|Peshawar Zalmi,2,2020,2023,4,2020-03-15,2023-03-10,15,0,6,3,3,36,25,3,2,12,0,0,12.0,144.0,15,312,52.0,473,16,29.56,9.1,19.5,5,1,1,0,0
+dbb23cba,Awais Zafar,Awais Zafar,0,Awais Zafar,Multan Sultans,1,2026,2026,1,2026-04-19,2026-04-19,1,0,1,0,1,36,27,5,1,36,0,0,36.0,133.33,0,0,0.0,0,0,,,,0,0,1,0,0
+6e6fb538,JL du Plooy,JL du Plooy,0,JL du Plooy,Karachi Kings,1,2024,2024,1,2024-02-28,2024-03-03,2,0,2,0,2,36,26,4,0,24,0,0,18.0,138.46,1,6,1.0,2,0,,2.0,,0,0,0,0,0
+1c790f4f,Rumman Raees,Rumman Raees,0,Rumman Raees,Islamabad United|Multan Sultans,2,2016,2024,8,2016-02-04,2024-03-06,48,0,14,8,6,33,49,4,0,11,0,0,5.5,67.35,48,974,162.2,1289,48,26.85,7.94,20.29,43,7,11,0,0
+c0c411cb,Naveen-ul-Haq,Naveen-ul-Haq,0,Naveen-ul-Haq,Quetta Gladiators|Peshawar Zalmi,2,2023,2024,2,2023-03-02,2024-03-11,10,0,3,2,1,33,20,4,1,17,0,0,33.0,165.0,10,228,38.0,371,13,28.54,9.76,17.54,13,1,1,0,0
+e5437608,GF Linde,GF Linde,0,GF Linde,Lahore Qalandars|Peshawar Zalmi,2,2024,2025,2,2024-02-21,2025-04-14,5,0,3,1,2,31,25,3,1,26,0,0,15.5,124.0,5,84,14.0,126,1,126.0,9.0,84.0,3,0,1,0,0
+ba158afd,Zahid Mahmood,Zahid Mahmood,0,Zahid Mahmood,Quetta Gladiators|Islamabad United|Karachi Kings,3,2020,2026,5,2020-03-07,2026-04-25,18,0,7,4,3,30,45,2,0,19,0,0,10.0,66.67,18,389,64.5,549,15,36.6,8.47,25.93,5,0,1,0,0
+86b6e495,Gauhar Ali,Gauhar Ali,0,Gauhar Ali,Lahore Qalandars,1,2019,2019,1,2019-02-23,2019-02-28,3,0,3,0,3,30,22,4,1,21,0,0,10.0,136.36,0,0,0.0,0,0,,,,0,0,1,0,0
+cb1a782a,Mir Hamza,Mir Hamza,0,Mir Hamza,Karachi Kings|Quetta Gladiators,2,2016,2026,8,2016-02-12,2026-04-19,35,0,12,10,2,29,35,3,1,12,0,0,14.5,82.86,34,689,114.5,998,36,27.72,8.69,19.14,27,2,8,0,2
+c41043e6,BR McDermott,BR McDermott,0,BR McDermott,Karachi Kings|Quetta Gladiators,2,2025,2026,2,2025-05-17,2026-04-02,4,0,4,1,3,28,21,3,1,25,0,0,9.33,133.33,0,0,0.0,0,0,,,,0,0,3,1,0
+5935d694,Rishad Hossain,Rishad Hossain,0,Rishad Hossain,Lahore Qalandars|Rawalpindiz,2,2025,2026,2,2025-04-13,2026-04-06,11,0,9,3,6,27,34,2,1,13,0,0,4.5,79.41,11,228,38.0,379,15,25.27,9.97,15.2,7,0,5,0,0
+dda5aae5,JK Fuller,JK Fuller,0,JK Fuller,Karachi Kings,1,2023,2023,1,2023-02-16,2023-03-12,3,0,3,2,1,27,16,4,0,12,0,0,27.0,168.75,3,66,11.0,104,2,52.0,9.45,33.0,1,0,1,0,0
+3ff033bb,MD Shanaka,MD Shanaka,0,MD Shanaka,Peshawar Zalmi,1,2023,2023,1,2023-02-20,2023-02-23,2,0,2,1,1,27,26,2,0,16,0,0,27.0,103.85,1,12,2.0,22,0,,11.0,,0,0,0,0,0
+7bc1a2d1,Naved Yasin,Naved Yasin,0,Naved Yasin,Lahore Qalandars,1,2016,2016,1,2016-02-05,2016-02-16,5,0,3,1,2,27,33,2,1,25,0,0,13.5,81.82,0,0,0.0,0,0,,,,0,0,1,0,0
+d346d939,RA Whiteley,RA Whiteley,0,RA Whiteley,Multan Sultans,1,2018,2018,1,2018-03-07,2018-03-13,3,0,3,0,3,27,26,1,1,16,0,0,9.0,103.85,1,18,3.0,45,0,,15.0,,3,0,1,0,0
+cc535250,Ubaid Shah,Ubaid Shah,0,Ubaid Shah,Islamabad United|Multan Sultans|Lahore Qalandars,3,2024,2026,3,2024-02-17,2026-04-25,19,0,9,3,6,26,48,2,1,14,0,0,4.33,54.17,19,355,59.1,579,20,28.95,9.79,17.75,10,3,3,0,0
+8f6dd463,Azmatullah Omarzai,Azmatullah Omarzai,0,Azmatullah Omarzai,Peshawar Zalmi,1,2023,2023,1,2023-03-01,2023-03-17,6,0,3,1,2,26,14,3,1,16,0,0,13.0,185.71,6,140,23.2,229,10,22.9,9.81,14.0,7,0,2,0,0
+f4426e58,Jahanzaib Sultan,Jahanzaib Sultan,0,Jahanzaib Sultan,Multan Sultans,1,2025,2025,1,2025-05-18,2025-05-18,1,0,1,0,1,25,21,2,1,25,0,0,25.0,119.05,0,0,0.0,0,0,,,,0,0,1,0,0
+f59b2121,Muhammad Shahzad,Muhammad Shahzad,0,Muhammad Shahzad,Islamabad United,1,2025,2025,1,2025-04-11,2025-05-23,6,0,4,1,3,24,18,3,1,24,0,0,8.0,133.33,4,21,3.3,43,1,43.0,12.29,21.0,0,0,7,0,0
+d1523761,D Ramdin,D Ramdin,0,D Ramdin,Lahore Qalandars,1,2018,2018,1,2018-02-26,2018-03-08,4,0,4,0,4,24,47,0,0,11,0,0,6.0,51.06,0,0,0.0,0,0,,,,0,0,1,0,0
+087210b1,DJ Vilas,DJ Vilas,0,DJ Vilas,Lahore Qalandars,1,2020,2020,1,2020-02-21,2020-03-08,5,0,3,0,3,24,23,3,0,19,0,0,8.0,104.35,0,0,0.0,0,0,,,,0,0,4,1,0
+556302a7,SM Ervine,SM Ervine,0,SM Ervine,Quetta Gladiators,1,2017,2017,1,2017-03-05,2017-03-05,1,0,1,0,1,24,19,2,0,24,0,0,24.0,126.32,0,0,0.0,0,0,,,,0,0,0,0,0
+3a0f6df2,Zulfiqar Babar,Zulfiqar Babar,0,Zulfiqar Babar,Quetta Gladiators,1,2016,2017,2,2016-02-04,2017-03-05,18,0,6,3,3,23,17,1,1,20,0,0,7.67,135.29,18,432,72.0,499,15,33.27,6.93,28.8,7,0,7,0,0
+1574f3fe,Muhammad Faizan,Muhammad Faizan,0,Muhammad Faizan,Lahore Qalandars,1,2020,2021,2,2020-03-03,2021-06-10,8,0,5,1,4,23,40,1,1,9,0,0,5.75,57.5,3,42,7.0,72,3,24.0,10.29,14.0,1,0,1,0,0
+22ae3041,Fawad Ahmed,Fawad Ahmed,0,Fawad Ahmed,Quetta Gladiators|Islamabad United|Lahore Qalandars,3,2019,2022,4,2019-02-15,2022-02-21,23,0,7,3,4,22,34,3,0,14,0,0,5.5,64.71,23,533,88.5,656,23,28.52,7.38,23.17,4,0,1,0,0
+64775749,RP Meredith,RP Meredith,0,RP Meredith,Islamabad United|Hyderabad Kingsmen,2,2025,2026,2,2025-04-11,2026-04-01,7,0,2,2,0,22,34,1,0,19,0,0,,64.71,7,150,25.0,241,9,26.78,9.64,16.67,12,1,4,0,0
+5c88fab9,Awais Zia,Awais Zia,0,Awais Zia,Karachi Kings,1,2019,2019,1,2019-02-23,2019-02-24,2,0,2,0,2,22,30,2,0,19,0,0,11.0,73.33,1,1,0.1,4,0,,24.0,,0,0,0,0,0
+aa8b4568,Umair Masood,Umair Masood,0,Umair Masood,Lahore Qalandars,1,2019,2019,1,2019-03-05,2019-03-05,1,0,1,0,1,22,28,1,0,22,0,0,22.0,78.57,0,0,0.0,0,0,,,,0,0,1,0,0
+f59b3bd1,Waqas Maqsood,Waqas Maqsood,0,Waqas Maqsood,Islamabad United|Karachi Kings,2,2019,2022,4,2019-02-14,2022-02-25,20,0,5,1,4,21,25,2,1,12,0,0,5.25,84.0,20,421,70.1,605,27,22.41,8.62,15.59,19,2,4,0,0
+1bf9a8ef,Mohammad Irfan,Mohammad Irfan [1bf9],1,Mohammad Irfan (4),Lahore Qalandars|Karachi Kings|Quetta Gladiators,3,2017,2019,3,2017-02-10,2019-02-20,20,0,9,4,5,21,21,1,1,16,0,0,4.2,100.0,20,378,63.0,589,22,26.77,9.35,17.18,6,9,5,0,0
+efc04be7,Noor Ahmad,Noor Ahmad,0,Noor Ahmad,Karachi Kings|Quetta Gladiators,2,2021,2022,2,2021-06-15,2022-02-18,8,0,4,2,2,21,13,2,1,13,0,0,10.5,161.54,8,186,31.0,251,6,41.83,8.1,31.0,20,0,1,0,1
+e5d452d7,Saif Badar,Saif Badar,0,Saif Badar,Multan Sultans,1,2018,2018,1,2018-02-22,2018-03-13,9,0,4,0,4,21,23,1,1,13,0,0,5.25,91.3,1,12,2.0,15,1,15.0,7.5,12.0,1,0,1,0,0
+30afc92b,Salman Irshad,Salman Irshad,0,Salman Irshad,Lahore Qalandars|Peshawar Zalmi|Islamabad United,3,2018,2026,7,2018-03-02,2026-04-26,41,0,14,7,7,20,37,0,1,6,0,0,2.86,54.05,41,848,141.2,1361,53,25.68,9.63,16.0,36,3,3,0,0
+05d74535,Saeed Ajmal,Saeed Ajmal,0,Saeed Ajmal,Islamabad United,1,2016,2017,2,2016-02-05,2017-02-26,10,0,3,2,1,20,16,1,1,10,0,0,20.0,125.0,10,202,33.4,273,9,30.33,8.11,22.44,2,0,1,0,1
+736123bb,DN Wellalage,DN Wellalage,0,DN Wellalage,Lahore Qalandars,1,2026,2026,1,2026-04-11,2026-04-11,1,0,1,0,1,20,24,3,0,20,0,0,20.0,83.33,1,24,4.0,40,0,,10.0,,1,0,1,0,0
+a86a37ab,Mohammad Ali,Mohammad Ali,0,Mohammad Ali,Multan Sultans|Peshawar Zalmi|Hyderabad Kingsmen,3,2024,2026,3,2024-02-18,2026-05-03,28,0,9,5,4,19,38,1,0,10,0,0,4.75,50.0,28,608,101.2,888,42,21.14,8.76,14.48,21,5,6,0,2
+27c5715d,Khurram Shahzad,Khurram Shahzad [27c5],1,Khurram Shahzad,Quetta Gladiators|Peshawar Zalmi,2,2021,2026,4,2021-06-11,2026-04-28,17,0,8,4,4,19,36,1,0,11,0,0,4.75,52.78,17,354,59.0,472,26,18.15,8.0,13.62,10,5,5,0,2
+3b8679bf,Hunain Shah,Hunain Shah,0,Hunain Shah,Islamabad United|Hyderabad Kingsmen,2,2024,2026,3,2024-02-22,2026-05-03,21,0,9,3,6,19,31,1,1,9,0,0,3.17,61.29,20,367,61.1,551,25,22.04,9.01,14.68,18,2,2,0,3
+245c97cb,TS Mills,TS Mills,0,TS Mills,Quetta Gladiators|Karachi Kings|Peshawar Zalmi|Islamabad United,4,2017,2025,6,2017-02-10,2025-05-23,29,0,7,5,2,18,20,1,1,7,0,0,9.0,90.0,29,644,107.2,903,37,24.41,8.41,17.41,37,5,8,0,0
+7662cf7a,Bilawal Bhatti,Bilawal Bhatti,0,Bilawal Bhatti,Karachi Kings|Lahore Qalandars|Multan Sultans,3,2016,2020,3,2016-02-17,2020-03-15,8,0,4,2,2,18,17,1,1,15,0,0,9.0,105.88,8,157,26.1,203,6,33.83,7.76,26.17,7,2,4,0,0
+a3a1c7ef,Zohaib Khan,Zohaib Khan,0,Zohaib Khan,Lahore Qalandars|Islamabad United,2,2016,2017,2,2016-02-05,2017-02-15,8,0,4,3,1,18,13,1,0,10,0,0,18.0,138.46,8,138,23.0,196,3,65.33,8.52,46.0,4,1,2,0,0
+4ec07775,RN ten Doeschate,RN ten Doeschate,0,RN ten Doeschate,Karachi Kings|Lahore Qalandars,2,2016,2019,2,2016-02-20,2019-03-05,2,0,2,0,2,18,32,0,0,16,0,0,9.0,56.25,1,10,1.4,9,1,9.0,5.4,10.0,0,0,0,0,0
+4277234d,Sufiyan Muqeem,Sufiyan Muqeem,0,Sufiyan Muqeem,Peshawar Zalmi,1,2023,2026,3,2023-02-14,2026-05-03,19,0,6,3,3,17,26,1,0,6,0,0,5.67,65.38,19,408,68.0,537,27,19.89,7.9,15.11,11,1,6,0,2
+53597be1,BRM Taylor,BRM Taylor,0,BRM Taylor,Lahore Qalandars,1,2019,2019,1,2019-02-14,2019-02-22,4,0,4,1,3,17,17,0,1,13,0,0,5.67,100.0,0,0,0.0,0,0,,,,0,0,0,0,0
+f1c61793,JD Wildermuth,JD Wildermuth,0,JD Wildermuth,Quetta Gladiators,1,2021,2021,1,2021-06-11,2021-06-19,2,0,2,1,1,17,18,1,0,9,0,0,17.0,94.44,2,24,4.0,65,0,,16.25,,0,1,0,0,0
+13dd482e,Nasir Nawaz,Nasir Nawaz,0,Nasir Nawaz,Islamabad United,1,2019,2022,2,2019-03-01,2022-02-20,2,0,2,0,2,17,22,0,0,14,0,0,8.5,77.27,0,0,0.0,0,0,,,,0,0,1,0,0
+a968d8eb,Dilbar Hussain,Dilbar Hussain,0,Dilbar Hussain,Lahore Qalandars,1,2020,2023,2,2020-02-21,2023-03-12,12,0,2,1,1,16,15,1,1,8,0,0,16.0,106.67,12,225,37.3,316,15,21.07,8.43,15.0,7,6,3,0,0
+478a63e7,C Campher,C Campher,0,C Campher,Multan Sultans,1,2025,2025,1,2025-04-29,2025-05-01,2,0,2,0,2,16,12,2,1,12,0,0,8.0,133.33,1,24,4.0,27,1,27.0,6.75,24.0,1,0,0,0,0
+350bb1b1,AF Milne,AF Milne,0,AF Milne,Karachi Kings,1,2025,2025,1,2025-04-12,2025-04-15,2,0,1,0,1,16,7,2,1,16,0,0,16.0,228.57,2,48,8.0,91,0,,11.38,,3,0,1,0,0
+bc3e60ae,Hamayun Altaf,Hamayun Altaf,0,Hamayun Altaf,Multan Sultans,1,2025,2025,1,2025-05-18,2025-05-18,1,0,1,0,1,16,13,2,0,16,0,0,16.0,123.08,0,0,0.0,0,0,,,,0,0,0,0,0
+e94d1dcd,Usman Tariq,Usman Tariq,0,Usman Tariq,Quetta Gladiators,1,2024,2026,3,2024-02-25,2026-04-25,20,0,6,3,3,15,28,2,0,7,0,0,5.0,53.57,20,477,79.3,604,21,28.76,7.6,22.71,24,0,4,0,1
+0251a22f,Abdul Bangalzai,Abdul Bangalzai,0,Abdul Bangalzai,Quetta Gladiators,1,2022,2023,2,2022-02-03,2023-02-21,5,0,4,0,4,15,23,0,1,14,0,0,3.75,65.22,0,0,0.0,0,0,,,,0,0,0,0,0
+1a772306,Akbar-ur-Rehman,Akbar-ur-Rehman,0,Akbar-ur-Rehman,Quetta Gladiators,1,2016,2016,1,2016-02-04,2016-02-14,7,0,3,0,3,15,19,1,0,11,0,0,5.0,78.95,3,24,4.0,29,0,,7.25,,0,0,3,0,0
+14b14cd8,DM Bravo,DM Bravo,0,DM Bravo,Multan Sultans,1,2018,2018,1,2018-02-23,2018-03-06,4,0,2,1,1,15,13,1,1,9,0,0,15.0,115.38,0,0,0.0,0,0,,,,0,0,3,0,0
+abb83e27,JM Bairstow,JM Bairstow,0,JM Bairstow,Peshawar Zalmi,1,2016,2016,1,2016-02-19,2016-02-19,1,0,1,0,1,15,16,1,0,15,0,0,15.0,93.75,0,0,0.0,0,0,,,,0,0,2,0,0
+9a158001,Azhar Mahmood,Azhar Mahmood,0,Azhar Mahmood,Islamabad United,1,2016,2016,1,2016-02-14,2016-02-17,2,0,2,2,0,14,12,2,0,12,0,0,,116.67,2,42,7.0,57,1,57.0,8.14,42.0,1,0,2,0,0
+28392e11,Zaman Khan,Zaman Khan,0,Zaman Khan,Lahore Qalandars,1,2022,2025,4,2022-01-29,2025-05-22,39,0,10,6,4,13,29,1,1,6,0,0,3.25,44.83,39,782,130.2,1150,45,25.56,8.82,17.38,59,12,8,0,2
+99d7d5b7,Akif Javed,Akif Javed,0,Akif Javed,Islamabad United|Karachi Kings|Multan Sultans|Hyderabad Kingsmen,4,2020,2026,5,2020-02-20,2026-05-03,27,0,7,4,3,13,17,2,0,7,0,0,4.33,76.47,26,519,86.3,793,34,23.32,9.17,15.26,23,6,4,0,0
+0f6db197,S Mahmood,S Mahmood,0,S Mahmood,Peshawar Zalmi,1,2020,2022,3,2020-11-14,2022-02-10,8,0,4,3,1,13,15,0,1,11,0,0,13.0,86.67,8,175,29.1,267,17,15.71,9.15,10.29,7,0,2,0,0
+1daf3f74,Khurram Shahzad,Khurram Shahzad [1daf],1,Khurram Shahzad,Peshawar Zalmi,1,2023,2024,2,2023-02-14,2024-03-16,5,0,2,1,1,13,19,1,0,11,0,0,13.0,68.42,5,93,15.3,146,6,24.33,9.42,15.5,0,4,1,0,0
+a8e3170f,Mohammad Irfan,Mohammad Irfan [a8e3],1,Mohammad Irfan,Islamabad United|Multan Sultans|Peshawar Zalmi|Quetta Gladiators,4,2016,2022,7,2016-02-04,2022-02-20,52,0,11,5,6,12,27,2,0,6,0,0,2.0,44.44,51,1155,192.3,1341,45,29.8,6.97,25.67,25,6,8,0,1
+16dfcc19,Umar Gul,Umar Gul,0,Umar Gul,Quetta Gladiators|Multan Sultans,2,2016,2018,3,2016-02-04,2018-03-13,10,0,4,0,4,12,12,0,1,10,0,0,3.0,100.0,9,198,33.0,263,13,20.23,7.97,15.23,7,3,1,0,1
+0d39a026,Asif Mehmood,Asif Mehmood,0,Asif Mehmood,Hyderabad Kingsmen,1,2026,2026,1,2026-04-12,2026-04-24,3,0,1,0,1,12,9,0,1,12,0,0,12.0,133.33,2,30,5.0,53,5,10.6,10.6,6.0,0,0,0,0,0
+786b7fe8,Zahir Khan,Zahir Khan,0,Zahir Khan,Quetta Gladiators|Islamabad United,2,2021,2022,2,2021-06-12,2022-02-19,4,0,3,2,1,12,9,2,0,6,0,0,12.0,133.33,4,90,15.0,123,3,41.0,8.2,30.0,3,1,2,0,0
+770494eb,DAS Gunaratne,DAS Gunaratne,0,DAS Gunaratne,Lahore Qalandars,1,2019,2019,1,2019-03-11,2019-03-11,1,0,1,0,1,12,11,0,1,12,0,0,12.0,109.09,1,6,1.0,8,0,,8.0,,0,0,0,0,0
+6bb9e53b,Arif Yaqoob,Arif Yaqoob,0,Arif Yaqoob,Peshawar Zalmi,1,2024,2025,2,2024-02-23,2025-05-17,9,0,3,3,0,11,9,0,1,9,0,0,,122.22,9,180,30.0,233,14,16.64,7.77,12.86,3,0,0,0,0
+b410bd3d,S Lamichhane,S Lamichhane,0,S Lamichhane,Lahore Qalandars,1,2019,2019,1,2019-02-22,2019-03-11,7,0,3,3,0,11,14,0,0,6,0,0,,78.57,7,148,24.4,189,11,17.18,7.66,13.45,1,0,2,0,0
+876dbe2d,DR Mousley,DR Mousley,0,DR Mousley,Peshawar Zalmi,1,2024,2024,1,2024-02-18,2024-02-18,1,0,1,0,1,11,12,0,1,11,0,0,11.0,91.67,1,18,3.0,22,0,,7.33,,0,0,3,0,0
+7147f314,Sabbir Rahman,Sabbir Rahman,0,Sabbir Rahman,Peshawar Zalmi,1,2018,2018,1,2018-03-01,2018-03-03,2,0,1,0,1,11,11,1,0,11,0,0,11.0,100.0,0,0,0.0,0,0,,,,0,0,3,0,0
+9caf69a1,WG Jacks,WG Jacks,0,WG Jacks,Islamabad United,1,2022,2022,1,2022-02-24,2022-02-25,2,0,2,0,2,11,10,0,1,11,0,0,5.5,110.0,0,0,0.0,0,0,,,,0,0,3,0,0
+3be224b0,Sameen Gul,Sameen Gul,0,Sameen Gul,Peshawar Zalmi|Multan Sultans,2,2018,2023,5,2018-03-01,2023-03-04,23,0,4,4,0,10,17,1,0,7,0,0,,58.82,23,492,82.0,711,26,27.35,8.67,18.92,21,1,4,0,0
+bd93fea4,PM Siddle,PM Siddle,0,PM Siddle,Multan Sultans,1,2026,2026,1,2026-03-28,2026-04-29,11,0,2,1,1,10,9,1,0,9,0,0,10.0,111.11,11,240,40.0,355,13,27.31,8.88,18.46,8,1,2,0,0
+557153ca,KK Cooper,KK Cooper,0,KK Cooper,Lahore Qalandars,1,2016,2016,1,2016-02-05,2016-02-17,7,0,4,2,2,10,11,1,0,10,0,0,5.0,90.91,6,102,17.0,157,6,26.17,9.24,17.0,4,2,3,0,0
+73cbe848,Salman Fayyaz,Salman Fayyaz,0,Salman Fayyaz,Lahore Qalandars,1,2024,2024,1,2024-02-17,2024-02-27,3,0,2,1,1,10,6,0,1,8,0,0,10.0,166.67,3,38,6.2,61,2,30.5,9.63,19.0,2,0,2,0,0
+11614d87,D Pretorius,D Pretorius,0,D Pretorius,Quetta Gladiators,1,2023,2023,1,2023-03-06,2023-03-08,2,0,1,1,0,10,3,2,0,10,0,0,,333.33,2,48,8.0,79,1,79.0,9.88,48.0,4,0,0,0,0
+d18f9182,DPMD Jayawardene,DPMD Jayawardene,0,DPMD Jayawardene,Karachi Kings,1,2017,2017,1,2017-02-25,2017-02-25,1,0,1,0,1,10,8,1,0,10,0,0,10.0,125.0,0,0,0.0,0,0,,,,0,0,0,0,0
+d2babdd5,E Chigumbura,E Chigumbura,0,E Chigumbura,Quetta Gladiators,1,2016,2016,1,2016-02-04,2016-02-14,5,0,3,1,2,10,13,1,0,7,0,0,5.0,76.92,0,0,0.0,0,0,,,,0,0,2,0,0
+85dcb721,TJ Moores,TJ Moores,0,TJ Moores,Multan Sultans,1,2019,2019,1,2019-02-15,2019-03-01,3,0,3,1,2,10,21,0,0,9,0,0,5.0,47.62,0,0,0.0,0,0,,,,0,0,1,1,0
+14661bf3,Faisal Akram,Faisal Akram,0,Faisal Akram,Multan Sultans,1,2024,2026,3,2024-02-27,2026-04-29,9,0,3,2,1,9,10,1,0,4,0,0,9.0,90.0,9,164,27.2,245,9,27.22,8.96,18.22,3,0,1,0,1
+fb23118c,Ahmed Safi Abdullah,Ahmed Safi Abdullah,0,Ahmed Safi Abdullah,Islamabad United,1,2020,2020,1,2020-02-23,2020-03-01,3,0,2,2,0,9,13,1,0,8,0,0,,69.23,3,48,8.0,65,4,16.25,8.12,12.0,0,0,0,0,0
+0e9b0f64,Ali Majid,Ali Majid,0,Ali Majid,Peshawar Zalmi|Quetta Gladiators,2,2022,2025,2,2022-02-24,2025-04-18,2,0,1,1,0,9,8,2,0,9,0,0,,112.5,2,48,8.0,62,2,31.0,7.75,24.0,1,0,0,0,0
+d4eef961,M de Lange,M de Lange,0,M de Lange,Islamabad United,1,2022,2022,1,2022-01-30,2022-02-20,5,0,3,2,1,9,12,0,0,7,0,0,9.0,75.0,5,90,15.0,153,2,76.5,10.2,45.0,1,0,2,0,0
+bcc154fa,Nabi Gul,Nabi Gul,0,Nabi Gul,Peshawar Zalmi,1,2019,2019,1,2019-03-15,2019-03-17,2,0,1,0,1,9,12,0,0,9,0,0,9.0,75.0,1,5,0.5,4,0,,4.8,,0,0,1,0,0
+7ab1eab7,Salman Mirza,Salman Mirza,0,Salman Mirza,Lahore Qalandars|Islamabad United,2,2021,2026,3,2021-02-21,2026-05-01,12,0,2,1,1,8,9,1,0,5,0,0,8.0,88.89,12,240,40.0,434,14,31.0,10.85,17.14,10,3,5,0,2
+9bab2b81,Ashar Zaidi,Ashar Zaidi,0,Ashar Zaidi,Islamabad United,1,2016,2016,1,2016-02-05,2016-02-17,3,0,2,0,2,8,16,0,0,6,0,0,4.0,50.0,2,48,8.0,59,0,,7.38,,0,0,0,0,0
+2e5a9e70,Rizwan Mehmood,Rizwan Mehmood,0,Rizwan Mehmood,Hyderabad Kingsmen,1,2026,2026,1,2026-03-26,2026-03-26,1,0,1,0,1,8,15,0,0,8,0,0,8.0,53.33,0,0,0.0,0,0,,,,0,0,2,0,0
+f78e7113,S Prasanna,S Prasanna,0,S Prasanna,Lahore Qalandars,1,2020,2020,1,2020-03-03,2020-03-04,2,0,1,0,1,8,8,0,1,8,0,0,8.0,100.0,2,30,5.0,56,0,,11.2,,1,0,0,0,0
+a756e61a,SB Harper,SB Harper,0,SB Harper,Quetta Gladiators,1,2026,2026,1,2026-04-10,2026-04-10,1,0,1,0,1,8,7,1,0,8,0,0,8.0,114.29,0,0,0.0,0,0,,,,0,0,0,0,0
+a227a3c7,Shahzaib Khan,Shahzaib Khan,0,Shahzaib Khan,Rawalpindiz,1,2026,2026,1,2026-04-18,2026-04-26,3,0,3,0,3,8,14,1,0,7,0,0,2.67,57.14,0,0,0.0,0,0,,,,0,0,0,0,0
+086f5984,Junaid Khan,Junaid Khan,0,Junaid Khan,Peshawar Zalmi|Multan Sultans,2,2016,2020,5,2016-02-05,2020-11-15,26,0,11,8,3,7,16,0,0,2,0,0,2.33,43.75,25,552,92.0,780,26,30.0,8.48,21.23,8,4,5,0,0
+72f03be4,Mohammad Amir Khan,Mohammad Amir Khan,0,Mohammad Amir Khan,Peshawar Zalmi|Karachi Kings|Rawalpindiz,3,2020,2026,3,2020-02-22,2026-04-06,9,0,3,3,0,7,13,1,0,7,0,0,,53.85,9,144,24.0,236,4,59.0,9.83,36.0,2,1,1,0,0
+93f25f4f,BR Hampton,BR Hampton,0,BR Hampton,Quetta Gladiators,1,2026,2026,1,2026-04-21,2026-04-21,1,0,1,0,1,7,7,1,0,7,0,0,7.0,100.0,1,12,2.0,32,1,32.0,16.0,12.0,0,0,0,0,0
+87addb93,Adil Amin,Adil Amin,0,Adil Amin,Peshawar Zalmi,1,2020,2020,1,2020-03-13,2020-03-13,1,0,1,1,0,7,7,1,0,7,0,0,,100.0,0,0,0.0,0,0,,,,0,0,0,0,0
+9c821d2e,RA Herman,RA Herman,0,RA Herman,Lahore Qalandars,1,2026,2026,1,2026-04-03,2026-04-09,2,0,2,0,2,7,20,0,0,4,0,0,3.5,35.0,0,0,0.0,0,0,,,,0,0,0,0,0
+48a1d7b7,SO Hetmyer,SO Hetmyer,0,SO Hetmyer,Multan Sultans,1,2021,2021,1,2021-06-10,2021-06-13,2,0,1,0,1,7,9,0,0,7,0,0,7.0,77.78,0,0,0.0,0,0,,,,0,0,0,0,0
+7ccbb09f,Shahnawaz Dhani,Shahnawaz Dhani,0,Shahnawaz Dhani,Multan Sultans,1,2021,2024,4,2021-02-23,2024-02-27,27,0,5,3,2,6,11,1,0,6,0,0,3.0,54.55,27,536,89.2,813,39,20.85,9.1,13.74,17,5,9,0,3
+0a8fce53,Mustafizur Rahman,Mustafizur Rahman,0,Mustafizur Rahman,Lahore Qalandars,1,2018,2026,2,2018-02-23,2026-04-11,10,0,8,7,1,6,14,1,0,4,0,0,6.0,42.86,10,198,33.0,225,10,22.5,6.82,19.8,5,1,0,0,0
+e7de4f6b,RR Emrit,RR Emrit,0,RR Emrit,Quetta Gladiators,1,2017,2017,1,2017-03-05,2017-03-05,1,0,1,1,0,6,9,0,0,6,0,0,,66.67,1,24,4.0,30,3,10.0,7.5,8.0,0,0,0,0,0
+3207b7d2,Mohammad Taha,Mohammad Taha,0,Mohammad Taha,Karachi Kings,1,2022,2022,1,2022-01-27,2022-02-06,5,0,2,0,2,6,11,0,0,6,0,0,3.0,54.55,1,24,4.0,32,0,,8.0,,1,0,0,0,0
+0b2f7328,Muhammad Riazullah,Muhammad Riazullah,0,Muhammad Riazullah,Karachi Kings,1,2025,2025,1,2025-04-18,2025-04-18,1,0,1,0,1,6,9,0,0,6,0,0,6.0,66.67,0,0,0.0,0,0,,,,0,0,0,0,0
+ed031922,Arshad Iqbal,Arshad Iqbal,0,Arshad Iqbal,Karachi Kings|Peshawar Zalmi,2,2020,2023,4,2020-02-21,2023-03-10,24,0,4,3,1,5,11,0,0,2,0,0,5.0,45.45,24,500,83.2,769,25,30.76,9.23,20.0,12,5,1,0,1
+5574750c,JC Archer,JC Archer,0,JC Archer,Quetta Gladiators,1,2018,2018,1,2018-02-23,2018-02-24,2,0,1,0,1,5,4,1,0,5,0,0,5.0,125.0,2,48,8.0,53,5,10.6,6.62,9.6,0,1,1,0,0
+91b35a29,Razaullah,Razaullah,0,Razaullah,Rawalpindiz,1,2026,2026,1,2026-04-18,2026-04-21,2,0,1,0,1,5,10,0,0,5,0,0,5.0,50.0,2,40,6.4,83,3,27.67,12.45,13.33,5,0,0,0,0
+012829ff,JW Hastings,JW Hastings,0,JW Hastings,Quetta Gladiators,1,2018,2018,1,2018-02-28,2018-03-03,3,0,2,1,1,5,8,1,0,5,0,0,5.0,62.5,3,60,10.0,77,2,38.5,7.7,30.0,1,0,1,0,0
+54c58a5e,Nauman Ali,Nauman Ali,0,Nauman Ali,Multan Sultans,1,2019,2019,1,2019-02-20,2019-03-01,4,0,2,0,2,5,7,0,0,3,0,0,2.5,71.43,4,66,11.0,87,2,43.5,7.91,33.0,1,1,1,0,0
+d285acaf,CE McConchie,CE McConchie,0,CE McConchie,Rawalpindiz,1,2026,2026,1,2026-04-02,2026-04-23,3,0,2,0,2,5,10,0,0,3,0,0,2.5,50.0,3,46,7.4,83,0,,10.83,,3,0,0,0,0
+86e0f3f0,WL Madsen,WL Madsen,0,WL Madsen,Peshawar Zalmi,1,2019,2019,1,2019-02-17,2019-02-21,2,0,2,0,2,5,19,0,0,5,0,0,2.5,26.32,0,0,0.0,0,0,,,,0,0,2,0,0
+feb6180d,Mohammad Umar,Mohammad Umar,0,Mohammad Umar,Multan Sultans|Peshawar Zalmi|Karachi Kings,3,2021,2023,3,2021-02-21,2023-03-12,10,0,4,1,3,4,13,0,0,3,0,0,1.33,30.77,10,209,34.5,330,10,33.0,9.47,20.9,2,1,1,0,0
+51a3c5ef,MJ McClenaghan,MJ McClenaghan,0,MJ McClenaghan,Lahore Qalandars|Karachi Kings,2,2018,2020,2,2018-03-09,2020-03-06,5,0,1,0,1,4,2,1,0,4,0,0,4.0,200.0,5,102,17.0,156,2,78.0,9.18,51.0,2,0,1,0,0
+8a8d0649,Saqib Khan,Saqib Khan,0,Saqib Khan,Quetta Gladiators,1,2026,2026,1,2026-04-17,2026-04-19,2,0,1,0,1,4,2,1,0,4,0,0,4.0,200.0,2,30,5.0,44,1,44.0,8.8,30.0,0,1,1,0,0
+28b61a48,Ghazi Ghori,Ghazi Ghori,0,Ghazi Ghori,Islamabad United,1,2025,2025,1,2025-05-19,2025-05-21,2,0,1,0,1,4,5,0,0,4,0,0,4.0,80.0,0,0,0.0,0,0,,,,0,0,2,0,0
+32885b08,Mohammad Irfan,Mohammad Irfan [3288],1,Mohammad Irfan (5),Multan Sultans,1,2019,2019,1,2019-02-22,2019-03-04,2,0,2,1,1,4,3,1,0,4,0,0,4.0,133.33,2,32,5.2,68,0,,12.75,,1,0,0,0,0
+4f7279a4,Raza Hasan,Raza Hasan,0,Raza Hasan,Lahore Qalandars,1,2018,2018,1,2018-02-23,2018-02-24,2,0,2,0,2,4,12,0,0,4,0,0,2.0,33.33,2,30,5.0,47,0,,9.4,,0,0,0,0,0
+73f1f6b0,TA Lammonby,TA Lammonby,0,TA Lammonby,Karachi Kings,1,2022,2022,1,2022-01-27,2022-02-20,3,0,3,0,3,4,6,0,0,3,0,0,1.33,66.67,0,0,0.0,0,0,,,,0,0,1,0,0
+a63775d6,Rahat Ali,Rahat Ali,0,Rahat Ali,Quetta Gladiators|Lahore Qalandars|Peshawar Zalmi,3,2018,2020,3,2018-02-23,2020-11-14,28,0,4,2,2,3,11,0,0,1,0,0,1.5,27.27,28,614,102.2,800,34,23.53,7.82,18.06,25,0,3,0,0
+db3643f3,Umer Khan,Umer Khan,0,Umer Khan,Karachi Kings,1,2019,2020,2,2019-02-15,2020-03-15,17,0,5,2,3,3,8,0,0,3,0,0,1.0,37.5,15,306,51.0,397,19,20.89,7.78,16.11,8,0,3,0,0
+2b0f2af3,Imran Khan,Imran Khan [2b0f],1,Imran Khan|Imran Khan (2),Multan Sultans,1,2021,2022,2,2021-03-03,2022-01-31,10,0,2,2,0,3,4,0,0,3,0,0,,75.0,10,214,35.4,308,12,25.67,8.64,17.83,4,2,1,0,0
+7d92277a,Mujeeb Ur Rahman,Mujeeb Ur Rahman,0,Mujeeb Ur Rahman,Peshawar Zalmi,1,2021,2023,2,2021-02-21,2023-03-17,11,0,3,2,1,3,3,0,0,2,0,0,3.0,100.0,11,264,44.0,381,6,63.5,8.66,44.0,7,0,3,0,0
+b2a79f17,B Laughlin,B Laughlin,0,B Laughlin,Quetta Gladiators,1,2018,2018,1,2018-03-07,2018-03-10,3,0,1,1,0,3,2,0,0,3,0,0,,150.0,3,60,10.0,79,3,26.33,7.9,20.0,0,0,3,0,0
+b52ffbbd,FA Allen,FA Allen,0,FA Allen,Peshawar Zalmi,1,2021,2021,1,2021-06-10,2021-06-13,3,0,3,1,2,3,6,0,0,3,0,0,1.5,50.0,3,48,8.0,83,3,27.67,10.38,16.0,2,0,1,0,0
+68c56d09,KA Jamieson,KA Jamieson,0,KA Jamieson,Quetta Gladiators,1,2025,2025,1,2025-04-12,2025-05-03,2,0,1,0,1,3,7,0,0,3,0,0,3.0,42.86,2,42,7.0,63,2,31.5,9.0,21.0,0,0,2,0,0
+1a2676c5,SA Abbott,SA Abbott,0,SA Abbott,Quetta Gladiators,1,2025,2025,1,2025-04-18,2025-04-18,1,0,1,0,1,3,14,0,0,3,0,0,3.0,21.43,1,24,4.0,33,1,33.0,8.25,24.0,1,0,0,0,0
+72b245dd,Anamul Haque,Anamul Haque,0,Anamul Haque,Quetta Gladiators,1,2017,2017,1,2017-03-05,2017-03-05,1,0,1,0,1,3,9,0,0,3,0,0,3.0,33.33,0,0,0.0,0,0,,,,0,0,0,0,0
+0ecf791e,S Dadswell,S Dadswell,0,S Dadswell,Lahore Qalandars,1,2023,2023,1,2023-03-12,2023-03-12,1,0,1,0,1,3,4,0,0,3,0,0,3.0,75.0,1,6,1.0,8,0,,8.0,,0,0,1,0,0
+a6fc52a9,Ibtisam Sheikh,Ibtisam Sheikh,0,Ibtisam Sheikh,Peshawar Zalmi,1,2018,2019,2,2018-02-22,2019-03-01,8,0,2,1,1,2,6,0,0,2,0,0,2.0,33.33,8,144,24.0,178,9,19.78,7.42,16.0,1,0,4,0,0
+f24c6701,M Theekshana,M Theekshana,0,M Theekshana,Hyderabad Kingsmen,1,2026,2026,1,2026-03-29,2026-04-08,3,0,2,1,1,2,4,0,0,2,0,0,2.0,50.0,3,72,12.0,98,4,24.5,8.17,18.0,1,0,0,0,0
+76388dc8,S Badree,S Badree,0,S Badree,Islamabad United,1,2016,2017,2,2016-02-04,2017-02-24,7,0,1,1,0,2,2,0,0,2,0,0,,100.0,7,156,26.0,192,4,48.0,7.38,39.0,2,0,1,0,0
+b3034790,Fawad Ali,Fawad Ali,0,Fawad Ali,Karachi Kings,1,2025,2025,1,2025-04-12,2025-05-22,5,0,1,1,0,2,2,0,0,2,0,0,,100.0,5,72,12.0,108,2,54.0,9.0,36.0,4,2,0,0,0
+0bec3a6c,BAC Howell,BAC Howell,0,BAC Howell,Peshawar Zalmi,1,2022,2022,1,2022-02-24,2022-02-24,1,0,1,1,0,2,1,0,0,2,0,0,,200.0,1,21,3.3,34,1,34.0,9.71,21.0,0,0,0,0,0
+cd5be077,Mohammad Hamza,Mohammad Hamza,0,Mohammad Hamza,Karachi Kings,1,2026,2026,1,2026-04-09,2026-04-23,2,0,1,0,1,2,4,0,0,2,0,0,2.0,50.0,2,42,7.0,79,0,,11.29,,3,0,0,0,0
+9d2d03ef,Mohammad Huraira,Mohammad Huraira,0,Mohammad Huraira,Islamabad United,1,2022,2022,1,2022-02-20,2022-02-20,1,0,1,0,1,2,8,0,0,2,0,0,2.0,25.0,0,0,0.0,0,0,,,,0,0,1,0,0
+b08252b8,RP Burl,RP Burl,0,RP Burl,Lahore Qalandars,1,2026,2026,1,2026-04-09,2026-04-25,2,0,1,0,1,2,6,0,0,2,0,0,2.0,33.33,2,8,1.2,22,0,,16.5,,0,0,0,0,0
+3050a1fe,Sajjad Ali,Sajjad Ali,0,Sajjad Ali,Quetta Gladiators,1,2024,2024,1,2024-02-25,2024-02-25,1,0,1,0,1,2,2,0,0,2,0,0,2.0,100.0,0,0,0.0,0,0,,,,0,0,1,0,0
+53834b36,Ali Raza,Ali Raza,0,Ali Raza,Peshawar Zalmi,1,2025,2026,2,2025-04-12,2026-04-25,14,0,3,3,0,1,9,0,0,1,0,0,,11.11,14,301,50.1,471,22,21.41,9.39,13.68,11,7,2,0,0
+574665e2,Mohammad Asghar,Mohammad Asghar,0,Mohammad Asghar,Peshawar Zalmi,1,2016,2018,3,2016-02-05,2018-03-10,20,0,3,2,1,1,5,0,0,1,0,0,1.0,20.0,20,364,60.4,465,20,23.25,7.66,18.2,3,0,9,0,2
+402f8494,RJ Gleeson,RJ Gleeson,0,RJ Gleeson,Islamabad United,1,2026,2026,1,2026-03-28,2026-05-01,9,0,2,1,1,1,3,0,0,1,0,0,1.0,33.33,9,190,31.4,226,12,18.83,7.14,15.83,9,2,1,0,1
+667f678b,Ghulam Mudassar,Ghulam Mudassar,0,Ghulam Mudassar,Lahore Qalandars|Quetta Gladiators,2,2017,2022,3,2017-02-24,2022-02-18,11,0,2,1,1,1,3,0,0,1,0,0,1.0,33.33,11,226,37.4,386,11,35.09,10.25,20.55,18,1,1,0,0
+687e20b3,Mohammad Imran,Mohammad Imran [687e],1,Mohammad Imran|Mohammad Imran (2),Peshawar Zalmi|Karachi Kings|Lahore Qalandars,3,2021,2024,3,2021-02-21,2024-02-25,15,0,3,2,1,1,3,0,0,1,0,0,1.0,33.33,15,327,54.3,474,10,47.4,8.7,32.7,4,1,0,0,0
+f98481d3,Muhammad Ismail,Muhammad Ismail,0,Muhammad Ismail,Multan Sultans,1,2026,2026,1,2026-04-03,2026-04-29,7,0,1,1,0,1,2,0,0,1,0,0,,50.0,7,105,17.3,195,10,19.5,11.14,10.5,9,1,2,0,0
+14f96089,A Zampa,A Zampa,0,A Zampa,Karachi Kings,1,2026,2026,1,2026-03-27,2026-04-19,7,0,2,0,2,1,6,0,0,1,0,0,0.5,16.67,7,168,28.0,216,5,43.2,7.71,33.6,1,0,0,0,1
+e1891e00,BV Sears,BV Sears,0,BV Sears,Rawalpindiz,1,2026,2026,1,2026-04-10,2026-04-26,4,0,3,1,2,1,8,0,0,1,0,0,0.5,12.5,4,90,15.0,147,5,29.4,9.8,18.0,4,1,1,0,0
+a089f93f,Mohammad Abbas,Mohammad Abbas,0,Mohammad Abbas,Multan Sultans,1,2019,2019,1,2019-03-01,2019-03-11,3,0,1,1,0,1,1,0,0,1,0,0,,100.0,3,72,12.0,69,5,13.8,5.75,14.4,0,0,0,0,1
+7c7d63a2,AJ Tye,AJ Tye,0,AJ Tye,Karachi Kings,1,2023,2023,1,2023-02-14,2023-03-03,4,0,1,1,0,1,1,0,0,1,0,0,,100.0,4,90,15.0,160,1,160.0,10.67,90.0,2,0,1,0,0
+494a0503,Abdul Nasir,Abdul Nasir,0,Abdul Nasir,Quetta Gladiators,1,2020,2021,2,2020-02-20,2021-06-19,2,0,2,1,1,1,4,0,0,1,0,0,1.0,25.0,2,42,7.0,41,1,41.0,5.86,42.0,0,0,3,0,0
+e93f608d,Kashif Bhatti,Kashif Bhatti,0,Kashif Bhatti,Karachi Kings|Quetta Gladiators,2,2017,2026,2,2017-02-17,2026-04-10,2,0,1,1,0,1,1,0,0,1,0,0,,100.0,2,36,6.0,60,1,60.0,10.0,36.0,0,0,0,0,0
+5673a3fc,NL McCullum,NL McCullum,0,NL McCullum,Quetta Gladiators,1,2016,2016,1,2016-02-19,2016-02-23,2,0,2,1,1,1,4,0,0,1,0,0,1.0,25.0,1,18,3.0,24,1,24.0,8.0,18.0,0,0,1,0,0
+6f95e5fa,P Hatzoglou,P Hatzoglou,0,P Hatzoglou,Multan Sultans,1,2025,2025,1,2025-05-18,2025-05-18,1,0,1,0,1,1,4,0,0,1,0,0,1.0,25.0,1,24,4.0,34,1,34.0,8.5,24.0,2,0,0,0,0
+710dd98c,MN van Wyk,MN van Wyk,0,MN van Wyk,Quetta Gladiators,1,2017,2017,1,2017-03-05,2017-03-05,1,0,1,0,1,1,7,0,0,1,0,0,1.0,14.29,0,0,0.0,0,0,,,,0,0,0,0,0
+456f6d99,Mukhtar Ahmed,Mukhtar Ahmed,0,Mukhtar Ahmed,Karachi Kings,1,2018,2018,1,2018-03-21,2018-03-21,1,0,1,0,1,1,3,0,0,1,0,0,1.0,33.33,0,0,0.0,0,0,,,,0,0,1,0,0
+3241e3fd,N Pooran,N Pooran,0,N Pooran,Islamabad United,1,2017,2017,1,2017-03-01,2017-03-01,1,0,1,0,1,1,3,0,0,1,0,0,1.0,33.33,0,0,0.0,0,0,,,,0,0,0,0,0
+c290033d,Ihsanullah,Ihsanullah,0,Ihsanullah,Multan Sultans|Karachi Kings,2,2022,2026,3,2022-01-27,2026-04-11,15,0,1,1,0,0,3,0,0,0,0,0,,0.0,15,306,51.0,398,23,17.3,7.8,13.3,22,6,0,0,1
+449f4e3c,B Muzarabani,B Muzarabani,0,B Muzarabani,Multan Sultans|Karachi Kings,2,2021,2024,3,2021-06-13,2024-03-09,15,0,3,0,3,0,7,0,0,0,0,0,0.0,0.0,15,328,54.4,426,21,20.29,7.79,15.62,9,1,2,0,0
+e9c7f0d0,Fazalhaq Farooqi,Fazalhaq Farooqi,0,Fazalhaq Farooqi,Islamabad United,1,2023,2023,1,2023-02-24,2023-03-16,6,0,2,1,1,0,2,0,0,0,0,0,0.0,0.0,6,139,23.1,183,11,16.64,7.9,12.64,6,0,2,0,1
+3cbef804,Mohammad Basit,Mohammad Basit,0,Mohammad Basit,Peshawar Zalmi,1,2026,2026,1,2026-04-15,2026-05-03,6,0,0,0,0,0,0,0,0,0,0,0,,,6,133,22.1,172,10,17.2,7.76,13.3,4,0,4,0,0
+a03bba42,T Shamsi,T Shamsi,0,T Shamsi,Karachi Kings,1,2023,2024,2,2023-02-26,2024-02-28,8,0,2,1,1,0,2,0,0,0,0,0,0.0,0.0,8,186,31.0,260,10,26.0,8.39,18.6,6,2,1,0,1
+5318ee68,Nahid Rana,Nahid Rana,0,Nahid Rana,Peshawar Zalmi,1,2026,2026,1,2026-04-08,2026-05-03,5,0,0,0,0,0,0,0,0,0,0,0,,,5,108,18.0,98,9,10.89,5.44,12.0,2,1,1,0,0
+addfb70e,SW Tait,SW Tait,0,SW Tait,Peshawar Zalmi,1,2016,2016,1,2016-02-05,2016-02-21,8,0,2,2,0,0,0,0,0,0,0,0,,,8,186,31.0,217,9,24.11,7.0,20.67,13,1,1,0,0
+210b05cb,Ehsan Adil,Ehsan Adil,0,Ehsan Adil,Lahore Qalandars,1,2016,2016,1,2016-02-10,2016-02-17,5,0,0,0,0,0,0,0,0,0,0,0,,,5,119,19.5,170,7,24.29,8.57,17.0,7,0,1,0,0
+5441db8c,Aizaz Cheema,Aizaz Cheema,0,Aizaz Cheema,Quetta Gladiators|Lahore Qalandars,2,2016,2019,2,2016-02-11,2019-02-28,5,0,1,1,0,0,0,0,0,0,0,0,,,5,102,17.0,136,6,22.67,8.0,17.0,2,3,3,0,0
+8fd1a8f5,DW Steyn,DW Steyn,0,DW Steyn,Islamabad United|Quetta Gladiators,2,2020,2021,2,2020-03-01,2021-03-03,7,0,2,2,0,0,2,0,0,0,0,0,,0.0,7,130,21.4,182,6,30.33,8.4,21.67,7,1,0,0,0
+373838de,Mehran Mumtaz,Mehran Mumtaz,0,Mehran Mumtaz,Peshawar Zalmi|Islamabad United,2,2024,2026,2,2024-03-05,2026-04-12,6,0,2,0,2,0,2,0,0,0,0,0,0.0,0.0,6,120,20.0,136,5,27.2,6.8,24.0,3,0,3,0,0
+ccdd8308,ST Finn,ST Finn,0,ST Finn,Islamabad United,1,2018,2018,1,2018-02-25,2018-03-16,5,0,1,0,1,0,1,0,0,0,0,0,0.0,0.0,5,96,16.0,124,5,24.8,7.75,19.2,5,0,1,0,0
+7873a628,Ali Shafiq,Ali Shafiq,0,Ali Shafiq,Multan Sultans,1,2019,2020,2,2019-02-16,2020-03-15,4,0,1,0,1,0,0,0,0,0,0,0,0.0,,4,75,12.3,91,4,22.75,7.28,18.75,1,2,0,0,1
+1e9b3b23,Arish Ali,Arish Ali,0,Arish Ali,Quetta Gladiators|Peshawar Zalmi,2,2021,2022,2,2021-06-19,2022-02-02,2,0,1,0,1,0,1,0,0,0,0,0,0.0,0.0,2,42,7.0,64,4,16.0,9.14,10.5,1,0,0,0,0
+ea0cdc12,BAW Mendis,BAW Mendis,0,BAW Mendis,Lahore Qalandars,1,2016,2016,1,2016-02-06,2016-02-17,4,0,0,0,0,0,0,0,0,0,0,0,,,4,72,12.0,94,4,23.5,7.83,18.0,1,0,0,0,0
+17ea3bee,Momin Qamar,Momin Qamar,0,Momin Qamar,Multan Sultans,1,2026,2026,1,2026-03-28,2026-04-21,4,0,0,0,0,0,0,0,0,0,0,0,,,4,72,12.0,111,4,27.75,9.25,18.0,1,0,0,0,1
+8d42cee6,Aftab Ibrahim,Aftab Ibrahim,0,Aftab Ibrahim,Multan Sultans,1,2024,2024,1,2024-02-25,2024-03-05,3,0,0,0,0,0,0,0,0,0,0,0,,,3,42,7.0,61,3,20.33,8.71,14.0,0,1,2,0,0
+774e65b3,Aimal Khan,Aimal Khan,0,Aimal Khan,Quetta Gladiators|Peshawar Zalmi,2,2023,2024,2,2023-02-24,2024-03-11,5,0,1,1,0,0,2,0,0,0,0,0,,0.0,5,90,15.0,178,3,59.33,11.87,30.0,3,0,0,0,0
+b0eaaac6,Ali Khan,Ali Khan,0,Ali Khan,Karachi Kings|Islamabad United,2,2020,2021,2,2020-03-15,2021-06-19,4,0,0,0,0,0,0,0,0,0,0,0,,,4,68,11.2,106,3,35.33,9.35,22.67,7,0,1,0,0
+195fb6db,Imran Khan,Imran Khan [195f],1,Imran Khan (1),Peshawar Zalmi|Lahore Qalandars,2,2016,2018,3,2016-02-17,2018-03-08,3,0,1,1,0,0,0,0,0,0,0,0,,,3,64,10.4,101,3,33.67,9.47,21.33,1,1,2,0,0
+c22b76a3,Rizwanullah,Rizwanullah,0,Rizwanullah,Karachi Kings,1,2026,2026,1,2026-04-23,2026-04-25,2,0,0,0,0,0,0,0,0,0,0,0,,,2,40,6.4,69,3,23.0,10.35,13.33,1,0,0,0,0
+a1d053dd,SS Cottrell,SS Cottrell,0,SS Cottrell,Multan Sultans,1,2023,2023,1,2023-03-10,2023-03-18,3,0,0,0,0,0,0,0,0,0,0,0,,,3,48,8.0,81,3,27.0,10.12,16.0,5,0,1,0,0
+99c81226,Zia-ul-Haq,Zia-ul-Haq,0,Zia-ul-Haq,Lahore Qalandars,1,2016,2016,1,2016-02-05,2016-02-17,3,0,0,0,0,0,0,0,0,0,0,0,,,3,48,8.0,69,3,23.0,8.62,16.0,2,0,0,0,0
+9061a703,J Little,J Little,0,J Little,Multan Sultans,1,2025,2025,1,2025-04-22,2025-04-26,3,0,0,0,0,0,0,0,0,0,0,0,,,3,60,10.0,104,2,52.0,10.4,30.0,2,0,2,0,0
+0ad1b607,Khalil Ahmed,Khalil Ahmed,0,Khalil Ahmed,Quetta Gladiators,1,2026,2026,1,2026-04-10,2026-04-25,3,0,0,0,0,0,0,0,0,0,0,0,,,3,60,10.0,98,2,49.0,9.8,30.0,2,1,2,0,0
+73a0e5d8,Maaz Khan,Maaz Khan,0,Maaz Khan,Lahore Qalandars,1,2020,2020,1,2020-02-28,2020-03-10,3,0,0,0,0,0,0,0,0,0,0,0,,,3,42,7.0,76,2,38.0,10.86,21.0,1,0,1,0,0
+529eb9e0,OC McCoy,OC McCoy,0,OC McCoy,Islamabad United,1,2024,2024,1,2024-03-15,2024-03-16,2,0,1,1,0,0,1,0,0,0,0,0,,0.0,2,42,7.0,63,2,31.5,9.0,21.0,2,0,0,0,0
+38d1def2,Raja Farzan,Raja Farzan,0,Raja Farzan,Lahore Qalandars,1,2020,2020,1,2020-03-07,2020-03-15,2,0,0,0,0,0,0,0,0,0,0,0,,,2,36,6.0,35,2,17.5,5.83,18.0,2,0,0,0,0
+bb34fd31,Shoriful Islam,Shoriful Islam,0,Shoriful Islam,Peshawar Zalmi,1,2026,2026,1,2026-03-28,2026-04-13,5,0,0,0,0,0,0,0,0,0,0,0,,,5,90,15.0,119,2,59.5,7.93,45.0,7,2,1,0,0
+9cdc8c06,Tayyab Abbas,Tayyab Abbas [9cdc],1,Tayyab Abbas,Lahore Qalandars,1,2024,2024,1,2024-03-09,2024-03-10,2,0,0,0,0,0,0,0,0,0,0,0,,,2,24,4.0,37,2,18.5,9.25,12.0,4,0,0,0,0
+ed54033c,Ashir Qureshi,Ashir Qureshi,0,Ashir Qureshi,Quetta Gladiators,1,2022,2022,1,2022-01-28,2022-02-20,4,0,1,0,1,0,1,0,0,0,0,0,0.0,0.0,2,42,7.0,61,1,61.0,8.71,42.0,0,0,0,0,0
+e412cb64,HF Gurney,HF Gurney,0,HF Gurney,Quetta Gladiators,1,2019,2019,1,2019-02-27,2019-02-27,1,0,1,1,0,0,0,0,0,0,0,0,,,1,12,2.0,13,1,13.0,6.5,12.0,0,0,0,0,0
+1d2f290a,JA Thompson,JA Thompson,0,JA Thompson,Karachi Kings,1,2022,2022,1,2022-02-14,2022-02-16,2,0,1,0,1,0,1,0,0,0,0,0,0.0,0.0,1,12,2.0,22,1,22.0,11.0,12.0,0,0,0,0,0
+9ff6a1ba,Jalat Khan,Jalat Khan,0,Jalat Khan,Rawalpindiz,1,2026,2026,1,2026-04-04,2026-04-04,1,0,0,0,0,0,0,0,0,0,0,0,,,1,18,3.0,38,1,38.0,12.67,18.0,0,0,0,0,0
+a9da7784,KJ Abbott,KJ Abbott,0,KJ Abbott,Lahore Qalandars,1,2018,2018,1,2018-03-16,2018-03-16,1,0,0,0,0,0,0,0,0,0,0,0,,,1,18,3.0,25,1,25.0,8.33,18.0,1,0,0,0,0
+79f8472d,Mohammad Mohsin,Mohammad Mohsin,0,Mohammad Mohsin,Peshawar Zalmi,1,2020,2020,1,2020-02-21,2020-02-28,2,0,1,0,1,0,6,0,0,0,0,0,0.0,0.0,1,24,4.0,35,1,35.0,8.75,24.0,0,0,0,0,0
+68d11420,Mohammad Zeeshan,Mohammad Zeeshan,0,Mohammad Zeeshan,Peshawar Zalmi|Quetta Gladiators,2,2024,2025,2,2024-02-18,2025-05-01,4,0,2,0,2,0,2,0,0,0,0,0,0.0,0.0,4,78,13.0,134,1,134.0,10.31,78.0,4,2,0,0,0
+ee1b6c27,N Thushara,N Thushara,0,N Thushara,Quetta Gladiators,1,2023,2023,1,2023-02-15,2023-02-15,1,0,1,1,0,0,3,0,0,0,0,0,,0.0,1,12,2.0,21,1,21.0,10.5,12.0,0,0,0,0,0
+3f1066d0,Waqar Salamkheil,Waqar Salamkheil,0,Waqar Salamkheil,Peshawar Zalmi,1,2021,2024,2,2021-06-17,2024-02-21,2,0,1,0,1,0,2,0,0,0,0,0,0.0,0.0,2,42,7.0,92,1,92.0,13.14,42.0,0,0,0,0,0
+aad2830e,Zeeshan Zameer,Zeeshan Zameer,0,Zeeshan Zameer,Islamabad United,1,2022,2023,2,2022-02-12,2023-02-27,3,0,1,0,1,0,1,0,0,0,0,0,0.0,0.0,3,27,4.3,47,1,47.0,10.44,27.0,4,0,1,0,0
+a35c119e,AW Summers,AW Summers,0,AW Summers,Karachi Kings,1,2019,2019,1,2019-02-28,2019-03-04,2,0,0,0,0,0,0,0,0,0,0,0,,,2,48,8.0,62,0,,7.75,,3,1,1,0,0
+d094e7d1,Abdur Rehman,Abdur Rehman,0,Abdur Rehman,Peshawar Zalmi,1,2016,2016,1,2016-02-17,2016-02-17,1,0,0,0,0,0,0,0,0,0,0,0,,,1,18,3.0,28,0,,9.33,,2,0,1,0,0
+b8a75ca8,Adnan Rasool,Adnan Rasool,0,Adnan Rasool,Lahore Qalandars,1,2016,2016,1,2016-02-06,2016-02-17,3,0,0,0,0,0,0,0,0,0,0,0,,,2,36,6.0,67,0,,11.17,,5,0,0,0,0
+5bbb4ec5,Ahsan Bhatti,Ahsan Bhatti,0,Ahsan Bhatti,,0,,,0,,,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,1,0,0
+55d3d4e8,Athar Mahmood,Athar Mahmood,0,Athar Mahmood,Islamabad United,1,2022,2022,1,2022-02-20,2022-02-25,3,0,1,1,0,0,0,0,0,0,0,0,,,3,48,8.0,49,0,,6.12,,0,0,1,0,0
+f3be8d36,Bilal Asif,Bilal Asif,0,Bilal Asif,Lahore Qalandars,1,2018,2018,1,2018-03-16,2018-03-16,1,0,0,0,0,0,0,0,0,0,0,0,,,1,12,2.0,19,0,,9.5,,0,0,0,0,0
+ed6894af,D Foxcroft,D Foxcroft,0,D Foxcroft,Lahore Qalandars,1,2022,2022,1,2022-02-02,2022-02-02,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,1,0,0
+de7d833e,D Madushanka,D Madushanka,0,D Madushanka,Multan Sultans,1,2025,2025,1,2025-05-18,2025-05-18,1,0,0,0,0,0,0,0,0,0,0,0,,,1,24,4.0,41,0,,10.25,,0,0,0,0,0
+1747ea18,DS Airee,DS Airee,0,DS Airee,,0,,,0,,,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,1,0,0
+9e44e6fd,Faizan Khan,Faizan Khan,0,Faizan Khan,Lahore Qalandars,1,2020,2020,1,2020-02-23,2020-02-23,1,0,1,1,0,0,1,0,0,0,0,0,,0.0,0,0,0.0,0,0,,,,0,0,0,0,0
+112fa7ec,Haroon Arshad,Haroon Arshad,0,Haroon Arshad,,0,,,0,,,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,1,0,0
+2cbdd22f,Izharulhaq Naveed,Izharulhaq Naveed,0,Izharulhaq Naveed,Multan Sultans,1,2023,2023,1,2023-03-11,2023-03-11,1,0,0,0,0,0,0,0,0,0,0,0,,,1,24,4.0,55,0,,13.75,,2,0,0,0,0
+a3690f55,Khuzaima Tanveer,Khuzaima Tanveer,0,Khuzaima Tanveer,,0,,,0,,,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,1,0,0
+3979b5e0,L Tucker,L Tucker,0,L Tucker,Lahore Qalandars,1,2024,2024,1,2024-02-17,2024-02-17,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,0,0,0
+d74d1090,MTC Waller,MTC Waller,0,MTC Waller,,0,,,0,,,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,1,0,0
+83d17bbc,MW Forde,MW Forde,0,MW Forde,Islamabad United,1,2024,2024,1,2024-03-07,2024-03-07,1,0,0,0,0,0,0,0,0,0,0,0,,,1,12,2.0,18,0,,9.0,,0,0,0,0,0
+a81abb8c,Mohammad Azab,Mohammad Azab,0,Mohammad Azab,Lahore Qalandars,1,2025,2025,1,2025-04-24,2025-04-24,1,0,1,0,1,0,2,0,0,0,0,0,0.0,0.0,1,12,2.0,23,0,,11.5,,0,2,1,0,0
+3f659464,OP Stone,OP Stone,0,OP Stone,Multan Sultans,1,2024,2024,1,2024-02-20,2024-02-20,1,0,0,0,0,0,0,0,0,0,0,0,,,1,22,3.4,28,0,,7.64,,2,0,0,0,0
+1efd12d1,PR Brown,PR Brown,0,PR Brown,Peshawar Zalmi,1,2022,2022,1,2022-01-28,2022-01-30,2,0,0,0,0,0,0,0,0,0,0,0,,,2,42,7.0,61,0,,8.71,,0,0,2,0,0
+feb9238a,Saifullah Bangash,Saifullah Bangash,0,Saifullah Bangash,Karachi Kings,1,2016,2016,1,2016-02-05,2016-02-17,4,0,1,0,1,0,1,0,0,0,0,0,0.0,0.0,0,0,0.0,0,0,,,,0,0,2,0,0
+21d6eb6a,Shakeel Ansar,Shakeel Ansar,0,Shakeel Ansar,Multan Sultans,1,2019,2019,1,2019-02-20,2019-02-20,1,0,1,1,0,0,3,0,0,0,0,0,,0.0,0,0,0.0,0,0,,,,0,0,0,0,0
+019ca34a,Shawaiz Irfan,Shawaiz Irfan,0,Shawaiz Irfan,Lahore Qalandars,1,2023,2023,1,2023-03-07,2023-03-07,1,0,1,0,1,0,6,0,0,0,0,0,0.0,0.0,0,0,0.0,0,0,,,,0,0,0,0,0
+571e1d2a,Shayan Jahangir,Shayan Jahangir,0,Shayan Jahangir,,0,,,0,,,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0.0,0,0,,,,0,0,1,0,0
+a90fd86c,Shehzad Gul,Shehzad Gul,0,Shehzad Gul,Multan Sultans,1,2026,2026,1,2026-03-28,2026-04-01,2,0,0,0,0,0,0,0,0,0,0,0,,,2,42,7.0,78,0,,11.14,,1,2,2,0,0
+6a633d13,Sohaibullah,Sohaibullah,0,Sohaibullah,Multan Sultans,1,2021,2021,1,2021-02-21,2021-02-21,1,0,0,0,0,0,0,0,0,0,0,0,,,1,18,3.0,26,0,,8.67,,1,0,0,0,0
+6b972db7,Tayyab Abbas,Tayyab Abbas [6b97],1,Tayyab Abbas,Lahore Qalandars,1,2024,2024,1,2024-03-06,2024-03-06,1,0,0,0,0,0,0,0,0,0,0,0,,,1,12,2.0,15,0,,7.5,,1,0,0,0,0
+f0e293b0,Zahoor Khan,Zahoor Khan,0,Zahoor Khan,Quetta Gladiators,1,2021,2021,1,2021-06-15,2021-06-15,1,0,0,0,0,0,0,0,0,0,0,0,,,1,6,1.0,23,0,,23.0,,1,0,0,0,0
